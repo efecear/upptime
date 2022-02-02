@@ -5,12 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: efece.ar
     url: https://www.efece.ar
+    icon: https://www.google.com/favicon.ico
   - name: Sandra Luna Web
     url: https://www.sandraluna.com.ar
   - name: La Semilla Que Crece
     url: https://www.lasemillaquecrece.com.ar
   - name: Valentina
-    url: http://valentina.musica.ar
+    url: https://valentina.musica.ar
   - name: Maiá Noé
     url: https://www.maianoe.com.ar
 
