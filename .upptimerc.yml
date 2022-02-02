@@ -7,8 +7,12 @@ sites:
     url: https://www.efece.ar
   - name: Sandra Luna Web
     url: https://www.sandraluna.com.ar
+  - name: La Semilla Que Crece
+    url: https://www.lasemillaquecrece.com.ar
   - name: Valentina
     url: https://valentina.musica.ar
+  - name: Maiá Noé
+    url: https://www.maianoe.com.ar
 
 
 assignees:
