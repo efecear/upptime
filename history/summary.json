@@ -59,17 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/valentina.musica.ar",
     "slug": "valentina",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.22%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Maiá Noé",
