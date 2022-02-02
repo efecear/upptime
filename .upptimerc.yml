@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: efece.ar
     url: https://www.efece.ar
+  - name: Sandra Luna Web
+    url: https://www.sandraluna.com.ar
+  - name: Valentina
+    url: https://www.valentina.musica.ar
 
 
 assignees:
