@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3158,
-    "timeDay": 3158,
-    "timeWeek": 3158,
-    "timeMonth": 3158,
-    "timeYear": 3158,
+    "time": 3148,
+    "timeDay": 3148,
+    "timeWeek": 3148,
+    "timeMonth": 3148,
+    "timeYear": 3148,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3655,
-    "timeDay": 3655,
-    "timeWeek": 3655,
-    "timeMonth": 3655,
-    "timeYear": 3655,
+    "time": 3622,
+    "timeDay": 3622,
+    "timeWeek": 3622,
+    "timeMonth": 3622,
+    "timeYear": 3622,
     "dailyMinutesDown": {}
   },
   {
@@ -46,32 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1939,
-    "timeDay": 1939,
-    "timeWeek": 1939,
-    "timeMonth": 1939,
-    "timeYear": 1939,
+    "time": 1912,
+    "timeDay": 1912,
+    "timeWeek": 1912,
+    "timeMonth": 1912,
+    "timeYear": 1912,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Valentina",
-    "url": "https://valentina.musica.ar",
-    "icon": "https://favicons.githubusercontent.com/valentina.musica.ar",
-    "slug": "valentina",
-    "status": "down",
-    "uptime": "1.20%",
-    "uptimeDay": "1.20%",
-    "uptimeWeek": "1.20%",
-    "uptimeMonth": "1.20%",
-    "uptimeYear": "1.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-02": 5
-    }
   },
   {
     "name": "Maiá Noé",
@@ -84,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2326,
-    "timeDay": 2326,
-    "timeWeek": 2326,
-    "timeMonth": 2326,
-    "timeYear": 2326,
+    "time": 2200,
+    "timeDay": 2200,
+    "timeWeek": 2200,
+    "timeMonth": 2200,
+    "timeYear": 2200,
     "dailyMinutesDown": {}
   }
 ]
