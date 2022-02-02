@@ -4,18 +4,20 @@
     "url": "https://www.efece.ar",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "efece-ar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3148,
     "timeDay": 3148,
     "timeWeek": 3148,
     "timeMonth": 3148,
     "timeYear": 3148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Sandra Luna Web",
