@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3811,
-    "timeDay": 4456,
+    "timeDay": 4524,
     "timeWeek": 3811,
     "timeMonth": 3811,
     "timeYear": 3811,
@@ -22,19 +22,19 @@
     "url": "https://www.sandraluna.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 3583,
-    "timeDay": 3583,
-    "timeWeek": 3583,
-    "timeMonth": 3583,
-    "timeYear": 3583,
+    "status": "up",
+    "uptime": "98.44%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
+    "time": 3924,
+    "timeDay": 3924,
+    "timeWeek": 3924,
+    "timeMonth": 3924,
+    "timeYear": 3924,
     "dailyMinutesDown": {
-      "2022-02-03": 1
+      "2022-02-03": 17
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 889
+      "2022-02-03": 905
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://www.viajudicial.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1969,
-    "timeDay": 1969,
-    "timeWeek": 1969,
-    "timeMonth": 1969,
-    "timeYear": 1969,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 2070,
+    "timeDay": 2070,
+    "timeWeek": 2070,
+    "timeMonth": 2070,
+    "timeYear": 2070,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 16
     }
   },
   {
