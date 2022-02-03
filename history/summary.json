@@ -5,37 +5,37 @@
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3811,
-    "timeDay": 4391,
+    "timeDay": 4456,
     "timeWeek": 3811,
     "timeMonth": 3811,
     "timeYear": 3811,
-    "dailyMinutesDown": {
-      "2022-02-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sandra Luna",
     "url": "https://www.sandraluna.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 3583,
     "timeDay": 3583,
     "timeWeek": 3583,
     "timeMonth": 3583,
     "timeYear": 3583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 1
+    }
   },
   {
     "name": "La Semilla Que Crece",
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 793
+      "2022-02-03": 889
     }
   },
   {
@@ -206,18 +206,20 @@
     "url": "https://www.viajudicial.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1969,
     "timeDay": 1969,
     "timeWeek": 1969,
     "timeMonth": 1969,
     "timeYear": 1969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "FecaM",
