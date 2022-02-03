@@ -37,19 +37,19 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: pablokbs.github.io
-  baseUrl: /upptime
-  logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
-  name: Estado Servicio efece.ar
-  introTitle: "**Upptime** el monitor de tiempo de actividad de código abierto y la página de estado. "
+  baseUrl: https://efece.ar
+  #logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
+  name: efece.ar
+  introTitle: "Monitor de tiempo de actividad. "
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: light
   favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   faviconSvg: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   navbar:
-    - title: Status
-      href: /
-    - title: Web
-      href: https://efece.ar
+  #  - title: Estados
+  #    href: /
+  #  - title: Web 
+  #    href: https://efece.ar
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
