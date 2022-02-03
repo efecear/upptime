@@ -7,7 +7,7 @@ sites:
     url: https://www.efece.ar
     icon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   - name: Valentina Musica
-    url: https://valentina.musica.ar
+    url: https://www.valentina.musica.ar
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
   - name: La Semilla Que Crece
@@ -51,6 +51,9 @@ status-website:
   #    href: /
   #  - title: Web
   #    href: https://efece.ar
+  
+i18n:
+  footer: Adaptación del proyecto [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
