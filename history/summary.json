@@ -5,18 +5,18 @@
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3811,
-    "timeDay": 4524,
-    "timeWeek": 3811,
-    "timeMonth": 3811,
-    "timeYear": 3811,
+    "uptime": "99.34%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 3829,
+    "timeDay": 4514,
+    "timeWeek": 3829,
+    "timeMonth": 3829,
+    "timeYear": 3829,
     "dailyMinutesDown": {
-      "2022-02-03": 1
+      "2022-02-03": 16
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
     "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "uptime": "98.53%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 3924,
     "timeDay": 3924,
     "timeWeek": 3924,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 959
+      "2022-02-03": 975
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
     "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.53%",
+    "uptime": "98.55%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 2070,
     "timeDay": 2070,
     "timeWeek": 2070,
