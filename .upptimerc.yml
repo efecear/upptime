@@ -37,7 +37,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: pablokbs.github.io
-  baseUrl: https://efece.ar
+  baseUrl: /upptime
   #logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
   name: efece.ar
   introTitle: "Monitor de tiempo de actividad. "
