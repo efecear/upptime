@@ -5,18 +5,18 @@
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
+    "uptime": "96.26%",
+    "uptimeDay": "96.26%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "96.26%",
     "time": 3455,
     "timeDay": 3455,
     "timeWeek": 3455,
     "timeMonth": 3455,
     "timeYear": 3455,
     "dailyMinutesDown": {
-      "2022-02-03": 15
+      "2022-02-03": 52
     }
   },
   {
@@ -78,18 +78,20 @@
     "url": "https://www.maianoe.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.maianoe.com.ar",
     "slug": "maia-noe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1995,
     "timeDay": 1995,
     "timeWeek": 1995,
     "timeMonth": 1995,
     "timeYear": 1995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 1
+    }
   },
   {
     "name": "Almacén BioPandora",
@@ -222,17 +224,19 @@
     "url": "https://www.fecam.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 2613,
     "timeDay": 2613,
     "timeWeek": 2613,
     "timeMonth": 2613,
     "timeYear": 2613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   }
 ]
