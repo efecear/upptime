@@ -31,7 +31,7 @@ status-website:
   name: Estado Servicio efece.ar
   introTitle: "**Upptime** el monitor de tiempo de actividad de código abierto y la página de estado. "
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  theme: night
+  theme: ocean
   favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   faviconSvg: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   navbar:
