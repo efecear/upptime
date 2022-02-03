@@ -5,17 +5,19 @@
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3811,
     "timeDay": 4524,
     "timeWeek": 3811,
     "timeMonth": 3811,
     "timeYear": 3811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 1
+    }
   },
   {
     "name": "Sandra Luna",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
     "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
+    "uptime": "98.51%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 3924,
     "timeDay": 3924,
     "timeWeek": 3924,
@@ -61,19 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/www.maianoe.com.ar",
     "slug": "maia-noe",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2301,
     "timeDay": 2344,
     "timeWeek": 2301,
     "timeMonth": 2301,
     "timeYear": 2301,
-    "dailyMinutesDown": {
-      "2022-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Valentina Música",
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 933
+      "2022-02-03": 959
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
     "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.53%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 2070,
     "timeDay": 2070,
     "timeWeek": 2070,
@@ -229,18 +229,16 @@
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2364,
     "timeDay": 2364,
     "timeWeek": 2364,
     "timeMonth": 2364,
     "timeYear": 2364,
-    "dailyMinutesDown": {
-      "2022-02-03": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
