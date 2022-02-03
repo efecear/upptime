@@ -4,18 +4,20 @@
     "url": "https://www.efece.ar",
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3719,
-    "timeDay": 3986,
+    "timeDay": 4058,
     "timeWeek": 3719,
     "timeMonth": 3719,
     "timeYear": 3719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "Sandra Luna",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2291,
-    "timeDay": 2338,
+    "timeDay": 2360,
     "timeWeek": 2291,
     "timeMonth": 2291,
     "timeYear": 2291,
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2250,
-    "timeDay": 2133,
+    "timeDay": 2158,
     "timeWeek": 2250,
     "timeMonth": 2250,
     "timeYear": 2250,
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/www.valentina.musica.ar",
     "slug": "valentina-musica",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-03": 21
+      "2022-02-03": 35
     }
   },
   {
