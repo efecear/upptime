@@ -6,14 +6,14 @@ sites:
   - name: efece.ar
     url: https://www.efece.ar
     icon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
-  - name: Valentina Música
-    url: https://www.valentina.musica.ar
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
   - name: La Semilla Que Crece
     url: https://www.lasemillaquecrece.com.ar
   - name: Maiá Noé
     url: https://www.maianoe.com.ar
+  - name: Valentina Música
+    url: https://www.valentina.musica.ar
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
   - name: Abocado Cantina
