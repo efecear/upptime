@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: efece.ar
     url: https://www.efece.ar
-    icon: https://www.google.com/favicon.ico
+    icon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   - name: Sandra Luna Web
     url: https://www.sandraluna.com.ar
   - name: La Semilla Que Crece
@@ -22,10 +22,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: pablokbs.github.io
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
   name: Estado Servicio efece.ar
   introTitle: "**Upptime** el monitor de tiempo de actividad de código abierto y la página de estado. "
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: night
+  favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
+  faviconSvg: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   navbar:
     - title: Status
       href: /
