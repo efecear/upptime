@@ -8,7 +8,6 @@ sites:
     icon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   - name: Valentina Musica
     url: http://valentina.musica.ar/
-     __dangerous__insecure: true
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
   - name: La Semilla Que Crece
