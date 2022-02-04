@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "98.85%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 4083,
     "timeDay": 5749,
     "timeWeek": 4083,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 706,
+      "2022-02-04": 710,
       "2022-02-03": 1072
     }
   },
@@ -155,19 +155,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 4297,
-    "timeDay": 9386,
-    "timeWeek": 4297,
-    "timeMonth": 4297,
-    "timeYear": 4297,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 4612,
+    "timeDay": 9059,
+    "timeWeek": 4612,
+    "timeMonth": 4612,
+    "timeYear": 4612,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 4
     }
   },
   {
