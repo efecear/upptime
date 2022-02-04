@@ -15,10 +15,10 @@ sites:
   - name: Valentina Música
     url: https://www.valentina.musica.ar
         expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 404
+      200
+      201
+      301
+      404
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
   - name: Abocado Cantina
