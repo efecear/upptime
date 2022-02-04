@@ -5,11 +5,11 @@
     "icon": "https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png",
     "slug": "efece-ar",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.52%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 3895,
     "timeDay": 4936,
     "timeWeek": 3895,
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.20%",
     "uptimeDay": "98.85%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 4083,
     "timeDay": 5749,
     "timeWeek": 4083,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 710,
+      "2022-02-04": 853,
       "2022-02-03": 1072
     }
   },
@@ -156,19 +156,17 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4612,
     "timeDay": 9059,
     "timeWeek": 4612,
     "timeMonth": 4612,
     "timeYear": 4612,
-    "dailyMinutesDown": {
-      "2022-02-04": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nodo UTT Ramos Mejia",
@@ -212,11 +210,11 @@
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.22%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 2403,
     "timeDay": 3561,
     "timeWeek": 2403,
@@ -231,9 +229,9 @@
     "url": "https://www.fecam.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -242,6 +240,8 @@
     "timeWeek": 2495,
     "timeMonth": 2495,
     "timeYear": 2495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   }
 ]
