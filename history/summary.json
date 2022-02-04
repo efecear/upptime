@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 689,
+      "2022-02-04": 706,
       "2022-02-03": 1072
     }
   },
@@ -155,19 +155,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 4297,
     "timeDay": 9386,
     "timeWeek": 4297,
     "timeMonth": 4297,
     "timeYear": 4297,
     "dailyMinutesDown": {
-      "2022-02-04": 4
+      "2022-02-04": 0
     }
   },
   {
@@ -212,11 +212,11 @@
     "icon": "https://favicons.githubusercontent.com/www.viajudicial.com.ar",
     "slug": "via-judicial",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 2403,
     "timeDay": 3561,
     "timeWeek": 2403,
