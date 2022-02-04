@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.sandraluna.com.ar",
     "slug": "sandra-luna",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "98.85%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 3974,
     "timeDay": 5931,
     "timeWeek": 3974,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-04": 465,
+      "2022-02-04": 470,
       "2022-02-03": 1072
     }
   },
@@ -229,19 +229,19 @@
     "url": "https://www.fecam.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2661,
-    "timeDay": 2794,
-    "timeWeek": 2661,
-    "timeMonth": 2661,
-    "timeYear": 2661,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 2554,
+    "timeDay": 2575,
+    "timeWeek": 2554,
+    "timeMonth": 2554,
+    "timeYear": 2554,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 5
     }
   }
 ]
