@@ -17,6 +17,7 @@ sites:
         expectedStatusCodes:
       - 200
       - 201
+      - 301
       - 404
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
