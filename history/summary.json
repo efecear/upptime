@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 885,
+      "2022-02-07": 890,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -197,19 +197,19 @@
     "url": "https://www.nodouttmoron.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3561,
-    "timeDay": 3116,
-    "timeWeek": 3561,
-    "timeMonth": 3561,
-    "timeYear": 3561,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 3583,
+    "timeDay": 3493,
+    "timeWeek": 3583,
+    "timeMonth": 3583,
+    "timeYear": 3583,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 5
     }
   },
   {
