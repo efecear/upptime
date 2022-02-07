@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 1283,
+      "2022-02-07": 1290,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -125,19 +125,19 @@
     "url": "https://www.abocado.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.abocado.com.ar",
     "slug": "abocado-cantina",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1880,
-    "timeDay": 1958,
-    "timeWeek": 1880,
-    "timeMonth": 1880,
-    "timeYear": 1880,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1886,
+    "timeDay": 1971,
+    "timeWeek": 1886,
+    "timeMonth": 1886,
+    "timeYear": 1886,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 7
     }
   },
   {
