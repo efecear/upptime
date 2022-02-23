@@ -45,19 +45,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 2295,
-    "timeDay": 2454,
-    "timeWeek": 2222,
-    "timeMonth": 2295,
-    "timeYear": 2295,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2286,
+    "timeDay": 2375,
+    "timeWeek": 2197,
+    "timeMonth": 2286,
+    "timeYear": 2286,
     "dailyMinutesDown": {
-      "2022-02-23": 63
+      "2022-02-23": 68
     }
   },
   {
@@ -67,7 +67,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.07%",
-    "uptimeDay": "82.63%",
+    "uptimeDay": "82.95%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "93.07%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 646,
+      "2022-02-23": 651,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 3201,
     "timeDay": 2577,
     "timeWeek": 2680,
     "timeMonth": 3201,
     "timeYear": 3201,
     "dailyMinutesDown": {
-      "2022-02-23": 46
+      "2022-02-23": 41
     }
   },
   {
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2909,
     "timeDay": 2957,
     "timeWeek": 3146,
     "timeMonth": 2909,
     "timeYear": 2909,
     "dailyMinutesDown": {
-      "2022-02-23": 26
+      "2022-02-23": 20
     }
   },
   {
@@ -274,7 +274,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.85%",
-    "uptimeDay": "83.93%",
+    "uptimeDay": "84.25%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.85%",
     "uptimeYear": "92.85%",
