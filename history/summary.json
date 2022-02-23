@@ -45,10 +45,10 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "97.39%",
+    "uptimeDay": "81.68%",
+    "uptimeWeek": "97.38%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.15%",
     "time": 2372,
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 1182,
+      "2022-02-23": 1187,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.51%",
+    "uptimeDay": "89.82%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 2535,
     "timeDay": 2783,
     "timeWeek": 2707,
     "timeMonth": 2535,
     "timeYear": 2535,
     "dailyMinutesDown": {
-      "2022-02-23": 156
+      "2022-02-23": 146
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.54%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 3074,
     "timeDay": 2673,
     "timeWeek": 2703,
     "timeMonth": 3074,
     "timeYear": 3074,
     "dailyMinutesDown": {
-      "2022-02-23": 129
+      "2022-02-23": 134
     }
   },
   {
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.59%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 2948,
     "timeDay": 3037,
     "timeWeek": 3127,
     "timeMonth": 2948,
     "timeYear": 2948,
     "dailyMinutesDown": {
-      "2022-02-23": 126
+      "2022-02-23": 121
     }
   },
   {
