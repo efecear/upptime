@@ -45,9 +45,9 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.73%",
+    "uptimeDay": "89.70%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
@@ -57,7 +57,7 @@
     "timeMonth": 2342,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2022-02-23": 148
+      "2022-02-23": 149
     }
   },
   {
@@ -67,7 +67,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.12%",
-    "uptimeDay": "98.26%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "93.12%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 871,
+      "2022-02-23": 877,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -192,9 +192,9 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.76%",
+    "uptimeDay": "93.74%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
@@ -233,18 +233,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 5368,
     "timeDay": 6494,
     "timeWeek": 6547,
     "timeMonth": 5368,
     "timeYear": 5368,
     "dailyMinutesDown": {
-      "2022-02-23": 34
+      "2022-02-23": 28
     }
   },
   {
@@ -274,7 +274,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.90%",
-    "uptimeDay": "99.55%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.90%",
     "uptimeYear": "92.90%",
