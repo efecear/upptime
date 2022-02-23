@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 939,
+      "2022-02-23": 947,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -132,9 +132,9 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "94.34%",
+    "uptimeDay": "94.30%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -144,7 +144,7 @@
     "timeMonth": 2499,
     "timeYear": 2499,
     "dailyMinutesDown": {
-      "2022-02-23": 81
+      "2022-02-23": 82
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.79%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1898,
     "timeDay": 1957,
     "timeWeek": 1970,
     "timeMonth": 1898,
     "timeYear": 1898,
     "dailyMinutesDown": {
-      "2022-02-23": 73
+      "2022-02-23": 62
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.70%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 3151,
     "timeDay": 2735,
     "timeWeek": 2757,
     "timeMonth": 3151,
     "timeYear": 3151,
     "dailyMinutesDown": {
-      "2022-02-23": 100
+      "2022-02-23": 89
     }
   },
   {
@@ -279,7 +279,7 @@
     "uptimeMonth": "92.92%",
     "uptimeYear": "92.92%",
     "time": 3855,
-    "timeDay": 8421,
+    "timeDay": 7622,
     "timeWeek": 4920,
     "timeMonth": 3855,
     "timeYear": 3855,
