@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 1177,
+      "2022-02-23": 1182,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -132,19 +132,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 2543,
-    "timeDay": 2811,
-    "timeWeek": 2727,
-    "timeMonth": 2543,
-    "timeYear": 2543,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 2535,
+    "timeDay": 2783,
+    "timeWeek": 2707,
+    "timeMonth": 2535,
+    "timeYear": 2535,
     "dailyMinutesDown": {
-      "2022-02-23": 152
+      "2022-02-23": 156
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.61%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 1986,
     "timeDay": 2167,
     "timeWeek": 2120,
     "timeMonth": 1986,
     "timeYear": 1986,
     "dailyMinutesDown": {
-      "2022-02-23": 127
+      "2022-02-23": 116
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.56%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 3074,
     "timeDay": 2673,
     "timeWeek": 2703,
     "timeMonth": 3074,
     "timeYear": 3074,
     "dailyMinutesDown": {
-      "2022-02-23": 124
+      "2022-02-23": 129
     }
   },
   {
@@ -212,19 +212,19 @@
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 2932,
-    "timeDay": 2997,
-    "timeWeek": 3103,
-    "timeMonth": 2932,
-    "timeYear": 2932,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 2948,
+    "timeDay": 3037,
+    "timeWeek": 3127,
+    "timeMonth": 2948,
+    "timeYear": 2948,
     "dailyMinutesDown": {
-      "2022-02-23": 121
+      "2022-02-23": 126
     }
   },
   {
@@ -233,18 +233,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 5595,
     "timeDay": 6658,
     "timeWeek": 6652,
     "timeMonth": 5595,
     "timeYear": 5595,
     "dailyMinutesDown": {
-      "2022-02-23": 33
+      "2022-02-23": 28
     }
   },
   {
@@ -273,11 +273,11 @@
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
     "status": "up",
-    "uptime": "92.97%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.69%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "92.97%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "92.98%",
     "time": 3855,
     "timeDay": 4570,
     "timeWeek": 4920,
