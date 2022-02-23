@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 2295,
     "timeDay": 2454,
     "timeWeek": 2222,
     "timeMonth": 2295,
     "timeYear": 2295,
     "dailyMinutesDown": {
-      "2022-02-23": 38
+      "2022-02-23": 33
     }
   },
   {
@@ -67,7 +67,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.06%",
-    "uptimeDay": "77.59%",
+    "uptimeDay": "77.96%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.06%",
     "uptimeYear": "93.06%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 574,
+      "2022-02-23": 579,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 2473,
     "timeDay": 2946,
     "timeWeek": 2724,
     "timeMonth": 2473,
     "timeYear": 2473,
     "dailyMinutesDown": {
-      "2022-02-23": 25
+      "2022-02-23": 30
     }
   },
   {
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 2908,
     "timeDay": 2986,
     "timeWeek": 3205,
     "timeMonth": 2908,
     "timeYear": 2908,
     "dailyMinutesDown": {
-      "2022-02-23": 20
+      "2022-02-23": 26
     }
   },
   {
@@ -232,9 +232,9 @@
     "url": "https://www.nodouttmoron.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.04%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -274,7 +274,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.83%",
-    "uptimeDay": "78.89%",
+    "uptimeDay": "79.26%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.83%",
     "uptimeYear": "92.83%",
