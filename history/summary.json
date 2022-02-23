@@ -45,19 +45,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "91.83%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "91.80%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 2312,
     "timeDay": 2471,
     "timeWeek": 2291,
     "timeMonth": 2312,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2022-02-23": 118
+      "2022-02-23": 119
     }
   },
   {
@@ -67,7 +67,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.11%",
-    "uptimeDay": "94.21%",
+    "uptimeDay": "94.68%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.11%",
     "uptimeYear": "93.11%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 813,
+      "2022-02-23": 820,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -132,19 +132,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 2470,
-    "timeDay": 2768,
-    "timeWeek": 2655,
-    "timeMonth": 2470,
-    "timeYear": 2470,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2477,
+    "timeDay": 2772,
+    "timeWeek": 2663,
+    "timeMonth": 2477,
+    "timeYear": 2477,
     "dailyMinutesDown": {
-      "2022-02-23": 81
+      "2022-02-23": 88
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.81%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1859,
     "timeDay": 1798,
     "timeWeek": 1889,
     "timeMonth": 1859,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2022-02-23": 51
+      "2022-02-23": 58
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 3136,
-    "timeDay": 2585,
-    "timeWeek": 2658,
-    "timeMonth": 3136,
-    "timeYear": 3136,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "93.29%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 3129,
+    "timeDay": 2602,
+    "timeWeek": 2667,
+    "timeMonth": 3129,
+    "timeYear": 3129,
     "dailyMinutesDown": {
-      "2022-02-23": 89
+      "2022-02-23": 96
     }
   },
   {
@@ -274,7 +274,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.89%",
-    "uptimeDay": "95.51%",
+    "uptimeDay": "95.98%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.89%",
     "uptimeYear": "92.89%",
