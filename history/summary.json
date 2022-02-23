@@ -64,18 +64,17 @@
     "icon": "https://favicons.githubusercontent.com/www.maianoe.com.ar",
     "slug": "maia-noe",
     "status": "up",
-    "uptime": "92.95%",
-    "uptimeDay": "59.85%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "92.95%",
+    "uptime": "93.01%",
+    "uptimeDay": "65.10%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "93.01%",
     "time": 3401,
     "timeDay": 10666,
     "timeWeek": 6403,
     "timeMonth": 3401,
     "timeYear": 3401,
     "dailyMinutesDown": {
-      "2022-02-23": 15,
       "2022-02-22": 896,
       "2022-02-21": 46,
       "2022-02-14": 117,
@@ -103,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 333,
+      "2022-02-23": 394,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -131,9 +130,9 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -142,7 +141,9 @@
     "timeWeek": 2370,
     "timeMonth": 2332,
     "timeYear": 2332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Abocado Cantina",
@@ -169,9 +170,9 @@
     "url": "https://www.reina-batata.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,16 +181,18 @@
     "timeWeek": 1930,
     "timeMonth": 1863,
     "timeYear": 1863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Tierra Firme",
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,16 +201,18 @@
     "timeWeek": 2706,
     "timeMonth": 3314,
     "timeYear": 3314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Nodo UTT Ramos Mejia",
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -216,7 +221,9 @@
     "timeWeek": 3275,
     "timeMonth": 2888,
     "timeYear": 2888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   },
   {
     "name": "Nodo UTT Morón",
@@ -262,14 +269,14 @@
     "icon": "https://favicons.githubusercontent.com/www.fecam.com.ar",
     "slug": "feca-m",
     "status": "up",
-    "uptime": "92.77%",
-    "uptimeDay": "62.17%",
+    "uptime": "92.78%",
+    "uptimeDay": "66.40%",
     "uptimeWeek": "90.69%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "92.77%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "92.78%",
     "time": 3855,
     "timeDay": 7629,
-    "timeWeek": 4761,
+    "timeWeek": 4920,
     "timeMonth": 3855,
     "timeYear": 3855,
     "dailyMinutesDown": {
