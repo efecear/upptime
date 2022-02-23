@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 1405,
+      "2022-02-23": 1414,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -172,19 +172,19 @@
     "url": "https://www.reina-batata.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 2017,
-    "timeDay": 2199,
-    "timeWeek": 2152,
-    "timeMonth": 2017,
-    "timeYear": 2017,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "88.94%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 2007,
+    "timeDay": 2171,
+    "timeWeek": 2132,
+    "timeMonth": 2007,
+    "timeYear": 2007,
     "dailyMinutesDown": {
-      "2022-02-23": 151
+      "2022-02-23": 159
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "88.67%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 3006,
-    "timeDay": 2680,
-    "timeWeek": 2692,
-    "timeMonth": 3006,
-    "timeYear": 3006,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 2995,
+    "timeDay": 2667,
+    "timeWeek": 2681,
+    "timeMonth": 2995,
+    "timeYear": 2995,
     "dailyMinutesDown": {
-      "2022-02-23": 162
+      "2022-02-23": 171
     }
   },
   {
