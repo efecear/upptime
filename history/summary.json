@@ -45,9 +45,9 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.70%",
+    "uptimeDay": "97.67%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -57,7 +57,7 @@
     "timeMonth": 2279,
     "timeYear": 2279,
     "dailyMinutesDown": {
-      "2022-02-23": 33
+      "2022-02-23": 34
     }
   },
   {
@@ -67,7 +67,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.05%",
-    "uptimeDay": "76.86%",
+    "uptimeDay": "77.21%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "93.05%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 563,
+      "2022-02-23": 568,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -132,19 +132,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2473,
     "timeDay": 2946,
     "timeWeek": 2724,
     "timeMonth": 2473,
     "timeYear": 2473,
     "dailyMinutesDown": {
-      "2022-02-23": 30
+      "2022-02-23": 19
     }
   },
   {
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2908,
     "timeDay": 2986,
     "timeWeek": 3205,
     "timeMonth": 2908,
     "timeYear": 2908,
     "dailyMinutesDown": {
-      "2022-02-23": 31
+      "2022-02-23": 20
     }
   },
   {
@@ -274,7 +274,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.83%",
-    "uptimeDay": "78.15%",
+    "uptimeDay": "78.51%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.83%",
     "uptimeYear": "92.83%",
