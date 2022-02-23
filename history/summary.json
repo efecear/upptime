@@ -45,10 +45,10 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.lasemillaquecrece.com.ar",
     "slug": "la-semilla-que-crece",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "77.03%",
-    "uptimeWeek": "96.72%",
+    "uptimeDay": "77.00%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "98.94%",
     "time": 2396,
@@ -57,7 +57,7 @@
     "timeMonth": 2396,
     "timeYear": 2396,
     "dailyMinutesDown": {
-      "2022-02-23": 331
+      "2022-02-23": 332
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 1414,
+      "2022-02-23": 1422,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -192,19 +192,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 2995,
     "timeDay": 2667,
     "timeWeek": 2681,
     "timeMonth": 2995,
     "timeYear": 2995,
     "dailyMinutesDown": {
-      "2022-02-23": 171
+      "2022-02-23": 162
     }
   },
   {
@@ -212,9 +212,9 @@
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "87.54%",
+    "uptimeDay": "87.52%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.40%",
