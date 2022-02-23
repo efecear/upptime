@@ -65,7 +65,7 @@
     "slug": "maia-noe",
     "status": "up",
     "uptime": "93.03%",
-    "uptimeDay": "68.56%",
+    "uptimeDay": "69.02%",
     "uptimeWeek": "90.65%",
     "uptimeMonth": "93.03%",
     "uptimeYear": "93.03%",
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 444,
+      "2022-02-23": 450,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -130,19 +130,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2369,
     "timeDay": 2714,
     "timeWeek": 2499,
     "timeMonth": 2369,
     "timeYear": 2369,
     "dailyMinutesDown": {
-      "2022-02-23": 33
+      "2022-02-23": 20
     }
   },
   {
@@ -270,7 +270,7 @@
     "slug": "feca-m",
     "status": "up",
     "uptime": "92.80%",
-    "uptimeDay": "69.85%",
+    "uptimeDay": "70.32%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "92.80%",
     "uptimeYear": "92.80%",
