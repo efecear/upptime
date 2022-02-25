@@ -28,6 +28,8 @@ sites:
     url: https://www.viajudicial.com.ar
   - name: FecaM
     url: https://www.fecam.com.ar
+  - name: Valentina Música
+    url: https://www.valentina.musica.ar
 
 assignees:
   - efecear
