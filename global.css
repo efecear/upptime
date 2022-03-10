@@ -41,7 +41,7 @@ a {
 article {
   padding: 1rem 1.25rem;
   position: relative;
-  border-radius: 0.4rem;
+  border-radius: 0.2rem;
   border: 1px solid;
 }
 article.link a::after {
@@ -65,13 +65,13 @@ h4 {
   font-weight: bold;
 }
 article.down {
-  border-left: 0.3rem solid;
+  border-left: 0.2rem solid;
 }
 article.degraded {
-  border-left: 0.3rem solid;
+  border-left: 0.2rem solid;
 }
 article.up {
-  border-left: 0.4rem solid;
+  border-left: 0.2rem solid;
 }
 
 .f {
