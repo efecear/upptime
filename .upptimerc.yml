@@ -30,6 +30,10 @@ sites:
     url: https://www.fecam.com.ar
   - name: Valentina Música
     url: https://www.valentina.musica.ar
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 404
 
 assignees:
   - efecear
@@ -41,7 +45,7 @@ status-website:
   baseUrl: /
   #logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
   name: Estado Servicio efece.ar
-  introTitle: "Monitor de tiempo de actividad. "
+  introTitle: "Monitor de actividad en tiempo real. "
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: light
   favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
