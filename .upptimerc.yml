@@ -57,6 +57,8 @@ status-website:
   #    href: https://efece.ar
   
 i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
   footer: Adaptación del proyecto [Upptime open source]($REPO), powered by [efece.ar](https://efece.ar/)
 
 # Upptime also supports notifications, assigning issues, and more
