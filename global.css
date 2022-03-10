@@ -20,6 +20,10 @@ h6 {
 h1 {
   font-size: 2em;
 }
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 a {
   color: inherit;
