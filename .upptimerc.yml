@@ -50,7 +50,7 @@ status-website:
   #logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
   name: Estado de Servicios | efece.ar
   introTitle: "Monitor de actividad en tiempo real. "
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Nos encargamos de todos los aspectos técnicos para brindarte soluciones. Aquí el estado del servicio con **datos en tiempo real**. Si tienes un incidente/inconveniente que aún no está reportado puedes [escribinos](https://efece.ar/#contact).
   theme: light
   favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   faviconSvg: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
