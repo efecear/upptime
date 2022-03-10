@@ -59,7 +59,7 @@ status-website:
   #    href: https://efece.ar
   
 i18n:
-  activeIncidents: Incidentes Activos 
+  activeIncidents: Incidentes activos registrados
   allSystemsOperational: Todos los sistemas están operativos. 
   incidentReport: "Ver incidente #$NUMBER →"
   activeIncidentSummary: Iniciado el $DATE con $POSTS registros
