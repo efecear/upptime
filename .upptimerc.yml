@@ -8,8 +8,17 @@ sites:
     icon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
+    icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
+  - name: Valentina Música
+    url: https://valentina.musica.ar
+    icon: https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png
+    expectedStatusCodes:
+    - 200
+    - 201
+    - 404
   - name: La Semilla Que Crece
     url: https://www.lasemillaquecrece.com.ar
+    icon: https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg
   - name: Maiá Noé
     url: https://www.maianoe.com.ar
   - name: Almacén BioPandora
