@@ -343,17 +343,18 @@
     "url": "https://www.valentina.musica.ar",
     "icon": "https://favicons.githubusercontent.com/www.valentina.musica.ar",
     "slug": "valentina-musica",
-    "status": "down",
-    "uptime": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.97%",
+    "time": 4721,
+    "timeDay": 3902,
+    "timeWeek": 4328,
+    "timeMonth": 4795,
+    "timeYear": 4721,
+    "dailyMinutesDown": {
+      "2022-02-03": 17
   }
 ]
