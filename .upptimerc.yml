@@ -10,14 +10,10 @@ sites:
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
   - name: Valentina Música
+    check: "tcp-ping"
+    port: 80
     url: https://valentina.musica.ar
-    icon: https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png
-    status: up
-    expectedStatusCodes:
-    - 200
-    - 201
-    - 404
-    
+    icon: https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png  
   - name: La Semilla Que Crece
     url: https://www.lasemillaquecrece.com.ar
     icon: https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg
