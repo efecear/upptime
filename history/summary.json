@@ -68,26 +68,26 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "94.08%",
-    "uptimeDay": "64.81%",
+    "status": "down",
+    "uptime": "94.11%",
+    "uptimeDay": "65.20%",
     "uptimeWeek": "69.42%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "94.08%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "94.11%",
     "time": 2741,
     "timeDay": 2607,
     "timeWeek": 2750,
     "timeMonth": 2762,
     "timeYear": 2741,
     "dailyMinutesDown": {
-      "2022-03-12": 419,
+      "2022-03-12": 420,
       "2022-03-11": 458,
       "2022-03-10": 552,
       "2022-03-09": 464,
       "2022-03-08": 325,
       "2022-03-07": 340,
       "2022-03-06": 431,
-      "2022-03-05": 298
+      "2022-03-05": 280
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "94.00%",
-    "uptimeDay": "87.23%",
-    "uptimeWeek": "77.42%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "94.00%",
+    "uptime": "93.98%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "77.48%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "93.98%",
     "time": 2356,
     "timeDay": 2274,
     "timeWeek": 2451,
     "timeMonth": 2373,
     "timeYear": 2356,
     "dailyMinutesDown": {
-      "2022-03-12": 151,
+      "2022-03-12": 145,
       "2022-03-11": 218,
       "2022-03-10": 436,
       "2022-03-09": 465,
@@ -203,7 +203,7 @@
       "2022-03-04": 203,
       "2022-03-03": 156,
       "2022-03-02": 299,
-      "2022-03-01": 162
+      "2022-03-01": 179
     }
   },
   {
@@ -212,18 +212,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "94.90%",
-    "uptimeDay": "82.39%",
-    "uptimeWeek": "82.67%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "94.90%",
+    "uptime": "94.88%",
+    "uptimeDay": "83.18%",
+    "uptimeWeek": "82.79%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "94.88%",
     "time": 2920,
     "timeDay": 2821,
     "timeWeek": 3113,
     "timeMonth": 2888,
     "timeYear": 2920,
     "dailyMinutesDown": {
-      "2022-03-12": 220,
+      "2022-03-12": 209,
       "2022-03-11": 189,
       "2022-03-10": 259,
       "2022-03-09": 282,
@@ -234,7 +234,7 @@
       "2022-03-04": 301,
       "2022-03-03": 177,
       "2022-03-02": 277,
-      "2022-03-01": 15
+      "2022-03-01": 38
     }
   },
   {
