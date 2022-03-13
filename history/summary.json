@@ -69,12 +69,12 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "94.08%",
-    "uptimeDay": "65.40%",
-    "uptimeWeek": "70.12%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "94.08%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "65.79%",
+    "uptimeWeek": "70.17%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "94.31%",
     "time": 2735,
     "timeDay": 2534,
     "timeWeek": 2738,
@@ -88,8 +88,7 @@
       "2022-03-09": 464,
       "2022-03-08": 325,
       "2022-03-07": 340,
-      "2022-03-06": 431,
-      "2022-03-05": 5
+      "2022-03-06": 305
     }
   },
   {
@@ -135,7 +134,7 @@
     "uptimeMonth": "93.10%",
     "uptimeYear": "94.54%",
     "time": 2791,
-    "timeDay": 2697,
+    "timeDay": 2690,
     "timeWeek": 2769,
     "timeMonth": 2806,
     "timeYear": 2791,
@@ -183,18 +182,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "77.68%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "94.45%",
+    "uptime": "94.44%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "77.75%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "94.44%",
     "time": 2350,
     "timeDay": 2176,
     "timeWeek": 2459,
     "timeMonth": 2368,
     "timeYear": 2350,
     "dailyMinutesDown": {
-      "2022-03-13": 152,
+      "2022-03-13": 146,
       "2022-03-12": 178,
       "2022-03-11": 218,
       "2022-03-10": 436,
@@ -205,7 +204,7 @@
       "2022-03-05": 191,
       "2022-03-04": 203,
       "2022-03-03": 156,
-      "2022-03-02": 98
+      "2022-03-02": 114
     }
   },
   {
@@ -244,19 +243,19 @@
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "up",
-    "uptime": "95.46%",
-    "uptimeDay": "96.63%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "96.59%",
     "uptimeWeek": "87.79%",
-    "uptimeMonth": "94.26%",
-    "uptimeYear": "95.46%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "95.49%",
     "time": 3061,
     "timeDay": 2894,
     "timeWeek": 3135,
     "timeMonth": 3074,
     "timeYear": 3061,
     "dailyMinutesDown": {
-      "2022-03-13": 49,
+      "2022-03-13": 50,
       "2022-03-12": 132,
       "2022-03-11": 195,
       "2022-03-10": 233,
@@ -271,7 +270,7 @@
       "2022-03-01": 241,
       "2022-02-28": 111,
       "2022-02-27": 146,
-      "2022-02-26": 55
+      "2022-02-26": 38
     }
   },
   {
@@ -287,7 +286,7 @@
     "uptimeYear": "95.71%",
     "time": 5934,
     "timeDay": 6424,
-    "timeWeek": 5965,
+    "timeWeek": 5962,
     "timeMonth": 6001,
     "timeYear": 5934,
     "dailyMinutesDown": {
