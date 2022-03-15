@@ -78,7 +78,7 @@
     "uptimeYear": "94.50%",
     "time": 2743,
     "timeDay": 2885,
-    "timeWeek": 2717,
+    "timeWeek": 2715,
     "timeMonth": 2760,
     "timeYear": 2743,
     "dailyMinutesDown": {
@@ -216,19 +216,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "95.00%",
-    "uptimeDay": "77.04%",
-    "uptimeWeek": "81.19%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "95.00%",
+    "status": "down",
+    "uptime": "95.02%",
+    "uptimeDay": "77.00%",
+    "uptimeWeek": "81.18%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "95.02%",
     "time": 2928,
     "timeDay": 3403,
     "timeWeek": 3034,
     "timeMonth": 2903,
     "timeYear": 2928,
     "dailyMinutesDown": {
-      "2022-03-15": 229,
+      "2022-03-15": 230,
       "2022-03-14": 227,
       "2022-03-13": 347,
       "2022-03-12": 216,
@@ -239,7 +239,7 @@
       "2022-03-07": 178,
       "2022-03-06": 268,
       "2022-03-05": 262,
-      "2022-03-04": 113
+      "2022-03-04": 98
     }
   },
   {
@@ -247,19 +247,19 @@
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "up",
-    "uptime": "95.55%",
-    "uptimeDay": "88.23%",
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "88.20%",
     "uptimeWeek": "88.23%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "95.55%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "95.58%",
     "time": 3058,
-    "timeDay": 3000,
+    "timeDay": 3003,
     "timeWeek": 3092,
     "timeMonth": 3071,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2022-03-15": 104,
+      "2022-03-15": 105,
       "2022-03-14": 220,
       "2022-03-13": 107,
       "2022-03-12": 132,
@@ -273,7 +273,7 @@
       "2022-03-04": 148,
       "2022-03-03": 170,
       "2022-03-02": 113,
-      "2022-03-01": 241
+      "2022-03-01": 226
     }
   },
   {
@@ -281,19 +281,19 @@
     "url": "https://www.nodouttmoron.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
-    "status": "up",
-    "uptime": "95.37%",
-    "uptimeDay": "74.36%",
-    "uptimeWeek": "88.34%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "95.37%",
+    "status": "down",
+    "uptime": "95.40%",
+    "uptimeDay": "74.32%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "95.40%",
     "time": 5902,
     "timeDay": 6768,
     "timeWeek": 5828,
     "timeMonth": 5961,
     "timeYear": 5902,
     "dailyMinutesDown": {
-      "2022-03-15": 136,
+      "2022-03-15": 137,
       "2022-03-14": 337,
       "2022-03-13": 212,
       "2022-03-12": 105,
@@ -312,7 +312,7 @@
       "2022-02-27": 130,
       "2022-02-26": 138,
       "2022-02-25": 50,
-      "2022-02-24": 89
+      "2022-02-24": 71
     }
   },
   {
