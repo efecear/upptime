@@ -1,7 +1,7 @@
 url: https://www.reina-batata.com.ar
-status: up
-code: 200
-responseTime: 2373
-lastUpdated: 2022-03-21T04:30:48.275Z
+status: down
+code: 500
+responseTime: 1014
+lastUpdated: 2022-03-21T04:47:17.394Z
 startTime: Thu Feb 03 2022 03:54:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
