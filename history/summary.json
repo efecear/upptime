@@ -71,26 +71,26 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.44%",
-    "uptimeDay": "73.95%",
-    "uptimeWeek": "69.75%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "95.44%",
+    "status": "down",
+    "uptime": "95.50%",
+    "uptimeDay": "73.90%",
+    "uptimeWeek": "69.77%",
+    "uptimeMonth": "92.84%",
+    "uptimeYear": "95.50%",
     "time": 2753,
     "timeDay": 2744,
-    "timeWeek": 2783,
+    "timeWeek": 2788,
     "timeMonth": 2771,
     "timeYear": 2753,
     "dailyMinutesDown": {
-      "2022-03-22": 278,
+      "2022-03-22": 279,
       "2022-03-21": 393,
       "2022-03-20": 435,
       "2022-03-19": 409,
       "2022-03-18": 452,
       "2022-03-17": 573,
       "2022-03-16": 422,
-      "2022-03-15": 217
+      "2022-03-15": 178
     }
   },
   {
@@ -107,7 +107,7 @@
     "time": 2854,
     "timeDay": 1781,
     "timeWeek": 2464,
-    "timeMonth": 3046,
+    "timeMonth": 2864,
     "timeYear": 2854,
     "dailyMinutesDown": {
       "2022-03-17": 31,
@@ -140,7 +140,7 @@
     "uptimeYear": "95.87%",
     "time": 2788,
     "timeDay": 3089,
-    "timeWeek": 2814,
+    "timeWeek": 2813,
     "timeMonth": 2804,
     "timeYear": 2788,
     "dailyMinutesDown": {
@@ -354,7 +354,7 @@
     "time": 3302,
     "timeDay": 1877,
     "timeWeek": 2503,
-    "timeMonth": 3464,
+    "timeMonth": 3309,
     "timeYear": 3302,
     "dailyMinutesDown": {
       "2022-03-14": 50,
