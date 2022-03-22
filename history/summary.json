@@ -132,19 +132,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "82.83%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "83.14%",
     "uptimeWeek": "81.88%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "95.90%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "95.97%",
     "time": 2795,
     "timeDay": 3555,
     "timeWeek": 2865,
     "timeMonth": 2811,
     "timeYear": 2795,
     "dailyMinutesDown": {
-      "2022-03-22": 189,
+      "2022-03-22": 190,
       "2022-03-21": 277,
       "2022-03-20": 181,
       "2022-03-19": 257,
@@ -154,7 +154,7 @@
       "2022-03-15": 239,
       "2022-03-14": 297,
       "2022-03-13": 214,
-      "2022-03-12": 239
+      "2022-03-12": 195
     }
   },
   {
@@ -190,8 +190,8 @@
     "slug": "almacen-reina-batata",
     "status": "up",
     "uptime": "95.61%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "81.22%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "81.36%",
     "uptimeMonth": "93.11%",
     "uptimeYear": "95.61%",
     "time": 2404,
@@ -200,7 +200,7 @@
     "timeMonth": 2423,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2022-03-22": 173,
+      "2022-03-22": 159,
       "2022-03-21": 383,
       "2022-03-20": 256,
       "2022-03-19": 192,
@@ -212,7 +212,7 @@
       "2022-03-13": 264,
       "2022-03-12": 178,
       "2022-03-11": 218,
-      "2022-03-10": 21
+      "2022-03-10": 36
     }
   },
   {
@@ -221,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "95.40%",
-    "uptimeDay": "74.98%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "95.40%",
+    "uptime": "95.32%",
+    "uptimeDay": "75.45%",
+    "uptimeWeek": "80.82%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "95.32%",
     "time": 2944,
-    "timeDay": 4011,
+    "timeDay": 4063,
     "timeWeek": 3015,
     "timeMonth": 2928,
     "timeYear": 2944,
     "dailyMinutesDown": {
-      "2022-03-22": 341,
+      "2022-03-22": 334,
       "2022-03-21": 196,
       "2022-03-20": 332,
       "2022-03-19": 281,
@@ -243,7 +243,7 @@
       "2022-03-14": 227,
       "2022-03-13": 347,
       "2022-03-12": 216,
-      "2022-03-11": 126
+      "2022-03-11": 189
     }
   },
   {
@@ -252,18 +252,18 @@
     "icon": "https://favicons.githubusercontent.com/www.uttnodoramosmejia.com.ar",
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "86.04%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "95.88%",
+    "uptime": "95.87%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "95.87%",
     "time": 3096,
-    "timeDay": 3257,
+    "timeDay": 3281,
     "timeWeek": 3233,
     "timeMonth": 3105,
     "timeYear": 3096,
     "dailyMinutesDown": {
-      "2022-03-22": 118,
+      "2022-03-22": 111,
       "2022-03-21": 188,
       "2022-03-20": 190,
       "2022-03-19": 75,
@@ -277,7 +277,8 @@
       "2022-03-11": 195,
       "2022-03-10": 233,
       "2022-03-09": 142,
-      "2022-03-08": 176
+      "2022-03-08": 176,
+      "2022-03-07": 16
     }
   },
   {
