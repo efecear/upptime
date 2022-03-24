@@ -71,26 +71,26 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.24%",
-    "uptimeDay": "64.60%",
-    "uptimeWeek": "67.87%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "95.24%",
+    "status": "down",
+    "uptime": "95.30%",
+    "uptimeDay": "64.66%",
+    "uptimeWeek": "67.86%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "95.30%",
     "time": 2756,
-    "timeDay": 2895,
+    "timeDay": 2902,
     "timeWeek": 2811,
-    "timeMonth": 2780,
+    "timeMonth": 2782,
     "timeYear": 2756,
     "dailyMinutesDown": {
-      "2022-03-24": 267,
+      "2022-03-24": 268,
       "2022-03-23": 542,
       "2022-03-22": 444,
       "2022-03-21": 393,
       "2022-03-20": 435,
       "2022-03-19": 409,
       "2022-03-18": 452,
-      "2022-03-17": 498
+      "2022-03-17": 457
     }
   },
   {
@@ -134,7 +134,7 @@
     "slug": "almacen-bio-pandora",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "87.19%",
+    "uptimeDay": "87.75%",
     "uptimeWeek": "81.32%",
     "uptimeMonth": "93.53%",
     "uptimeYear": "96.00%",
@@ -191,8 +191,8 @@
     "slug": "almacen-reina-batata",
     "status": "up",
     "uptime": "95.62%",
-    "uptimeDay": "83.95%",
-    "uptimeWeek": "81.11%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "81.25%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "95.62%",
     "time": 2420,
@@ -201,7 +201,7 @@
     "timeMonth": 2452,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2022-03-24": 108,
+      "2022-03-24": 93,
       "2022-03-23": 217,
       "2022-03-22": 159,
       "2022-03-21": 383,
@@ -214,7 +214,7 @@
       "2022-03-14": 271,
       "2022-03-13": 264,
       "2022-03-12": 178,
-      "2022-03-11": 16
+      "2022-03-11": 33
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "87.49%",
+    "status": "down",
+    "uptime": "95.51%",
+    "uptimeDay": "87.44%",
     "uptimeWeek": "80.29%",
-    "uptimeMonth": "92.68%",
-    "uptimeYear": "95.48%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "95.51%",
     "time": 2951,
     "timeDay": 3183,
     "timeWeek": 3045,
     "timeMonth": 2950,
     "timeYear": 2951,
     "dailyMinutesDown": {
-      "2022-03-24": 87,
+      "2022-03-24": 88,
       "2022-03-23": 179,
       "2022-03-22": 334,
       "2022-03-21": 196,
@@ -246,7 +246,7 @@
       "2022-03-15": 308,
       "2022-03-14": 227,
       "2022-03-13": 347,
-      "2022-03-12": 123
+      "2022-03-12": 100
     }
   },
   {
@@ -298,7 +298,7 @@
     "time": 5981,
     "timeDay": 5853,
     "timeWeek": 6151,
-    "timeMonth": 5995,
+    "timeMonth": 5999,
     "timeYear": 5981,
     "dailyMinutesDown": {
       "2022-03-24": 17,
