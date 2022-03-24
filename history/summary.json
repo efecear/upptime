@@ -13,7 +13,7 @@
     "time": 3993,
     "timeDay": 2673,
     "timeWeek": 3598,
-    "timeMonth": 3694,
+    "timeMonth": 3698,
     "timeYear": 3993,
     "dailyMinutesDown": {
       "2022-03-21": 18,
@@ -39,7 +39,7 @@
     "time": 4534,
     "timeDay": 3609,
     "timeWeek": 3524,
-    "timeMonth": 4196,
+    "timeMonth": 4209,
     "timeYear": 4534,
     "dailyMinutesDown": {
       "2022-03-13": 19,
@@ -71,26 +71,26 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.32%",
-    "uptimeDay": "73.21%",
-    "uptimeWeek": "69.56%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "95.32%",
+    "status": "down",
+    "uptime": "95.35%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "69.55%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "95.35%",
     "time": 2752,
     "timeDay": 2718,
     "timeWeek": 2793,
-    "timeMonth": 2776,
+    "timeMonth": 2777,
     "timeYear": 2752,
     "dailyMinutesDown": {
-      "2022-03-24": 387,
+      "2022-03-24": 388,
       "2022-03-23": 542,
       "2022-03-22": 444,
       "2022-03-21": 393,
       "2022-03-20": 435,
       "2022-03-19": 409,
       "2022-03-18": 452,
-      "2022-03-17": 361
+      "2022-03-17": 338
     }
   },
   {
@@ -107,7 +107,7 @@
     "time": 2827,
     "timeDay": 1830,
     "timeWeek": 1888,
-    "timeMonth": 2348,
+    "timeMonth": 2360,
     "timeYear": 2827,
     "dailyMinutesDown": {
       "2022-03-17": 31,
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
     "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "79.24%",
-    "uptimeWeek": "81.01%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "95.97%",
+    "uptime": "95.96%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "81.09%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "95.96%",
     "time": 2805,
     "timeDay": 3263,
     "timeWeek": 2934,
-    "timeMonth": 2832,
+    "timeMonth": 2833,
     "timeYear": 2805,
     "dailyMinutesDown": {
-      "2022-03-24": 282,
+      "2022-03-24": 274,
       "2022-03-23": 296,
       "2022-03-22": 205,
       "2022-03-21": 277,
@@ -154,7 +154,7 @@
       "2022-03-17": 382,
       "2022-03-16": 125,
       "2022-03-15": 239,
-      "2022-03-14": 228
+      "2022-03-14": 246
     }
   },
   {
@@ -171,7 +171,7 @@
     "time": 1962,
     "timeDay": 2221,
     "timeWeek": 2195,
-    "timeMonth": 1961,
+    "timeMonth": 1960,
     "timeYear": 1962,
     "dailyMinutesDown": {
       "2022-03-17": 19,
@@ -188,19 +188,19 @@
     "url": "https://www.reina-batata.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
-    "status": "up",
-    "uptime": "95.63%",
-    "uptimeDay": "83.05%",
-    "uptimeWeek": "81.16%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "95.63%",
+    "status": "down",
+    "uptime": "95.65%",
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "81.15%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "95.65%",
     "time": 2422,
     "timeDay": 2772,
     "timeWeek": 2621,
     "timeMonth": 2449,
     "timeYear": 2422,
     "dailyMinutesDown": {
-      "2022-03-24": 232,
+      "2022-03-24": 233,
       "2022-03-23": 217,
       "2022-03-22": 159,
       "2022-03-21": 383,
@@ -212,7 +212,7 @@
       "2022-03-15": 175,
       "2022-03-14": 271,
       "2022-03-13": 264,
-      "2022-03-12": 100
+      "2022-03-12": 81
     }
   },
   {
@@ -223,13 +223,13 @@
     "status": "up",
     "uptime": "95.67%",
     "uptimeDay": "83.29%",
-    "uptimeWeek": "80.92%",
+    "uptimeWeek": "81.05%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "95.67%",
     "time": 2954,
     "timeDay": 3481,
     "timeWeek": 3054,
-    "timeMonth": 2957,
+    "timeMonth": 2958,
     "timeYear": 2954,
     "dailyMinutesDown": {
       "2022-03-24": 239,
@@ -260,7 +260,7 @@
     "time": 3100,
     "timeDay": 3070,
     "timeWeek": 3153,
-    "timeMonth": 3105,
+    "timeMonth": 3106,
     "timeYear": 3100,
     "dailyMinutesDown": {
       "2022-03-24": 75,
@@ -286,18 +286,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
     "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "95.97%",
+    "uptime": "95.94%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "95.94%",
     "time": 5978,
     "timeDay": 5956,
     "timeWeek": 6046,
-    "timeMonth": 5968,
+    "timeMonth": 5967,
     "timeYear": 5978,
     "dailyMinutesDown": {
-      "2022-03-24": 49,
+      "2022-03-24": 46,
       "2022-03-23": 161,
       "2022-03-22": 156,
       "2022-03-21": 84,
@@ -314,7 +314,8 @@
       "2022-03-10": 116,
       "2022-03-09": 138,
       "2022-03-08": 144,
-      "2022-03-07": 134
+      "2022-03-07": 134,
+      "2022-03-06": 27
     }
   },
   {
@@ -331,7 +332,7 @@
     "time": 2710,
     "timeDay": 2953,
     "timeWeek": 2558,
-    "timeMonth": 2686,
+    "timeMonth": 2676,
     "timeYear": 2710,
     "dailyMinutesDown": {
       "2022-02-03": 16
@@ -351,7 +352,7 @@
     "time": 3280,
     "timeDay": 1707,
     "timeWeek": 2576,
-    "timeMonth": 2725,
+    "timeMonth": 2741,
     "timeYear": 3280,
     "dailyMinutesDown": {
       "2022-03-14": 50,
