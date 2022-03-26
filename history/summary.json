@@ -71,19 +71,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "73.15%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "73.11%",
     "uptimeWeek": "69.12%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "95.45%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "95.49%",
     "time": 2757,
-    "timeDay": 2800,
+    "timeDay": 2770,
     "timeWeek": 2793,
     "timeMonth": 2787,
     "timeYear": 2757,
     "dailyMinutesDown": {
-      "2022-03-26": 208,
+      "2022-03-26": 209,
       "2022-03-25": 436,
       "2022-03-24": 388,
       "2022-03-23": 542,
@@ -91,7 +91,7 @@
       "2022-03-21": 393,
       "2022-03-20": 435,
       "2022-03-19": 409,
-      "2022-03-18": 168
+      "2022-03-18": 140
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "95.69%",
+    "uptime": "95.63%",
+    "uptimeDay": "77.24%",
+    "uptimeWeek": "83.01%",
+    "uptimeMonth": "92.63%",
+    "uptimeYear": "95.63%",
     "time": 2429,
-    "timeDay": 2648,
+    "timeDay": 2623,
     "timeWeek": 2585,
     "timeMonth": 2467,
     "timeYear": 2429,
     "dailyMinutesDown": {
-      "2022-03-26": 184,
+      "2022-03-26": 178,
       "2022-03-25": 232,
       "2022-03-24": 232,
       "2022-03-23": 217,
@@ -214,7 +214,8 @@
       "2022-03-17": 221,
       "2022-03-16": 216,
       "2022-03-15": 175,
-      "2022-03-14": 271
+      "2022-03-14": 271,
+      "2022-03-13": 48
     }
   },
   {
@@ -222,19 +223,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "95.78%",
-    "uptimeDay": "84.46%",
-    "uptimeWeek": "83.24%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "95.78%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "84.41%",
+    "uptimeWeek": "83.23%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "95.81%",
     "time": 2957,
     "timeDay": 3066,
-    "timeWeek": 3124,
+    "timeWeek": 3127,
     "timeMonth": 2966,
     "timeYear": 2957,
     "dailyMinutesDown": {
-      "2022-03-26": 53,
+      "2022-03-26": 54,
       "2022-03-25": 223,
       "2022-03-24": 239,
       "2022-03-23": 179,
@@ -246,7 +247,7 @@
       "2022-03-17": 383,
       "2022-03-16": 104,
       "2022-03-15": 308,
-      "2022-03-14": 175
+      "2022-03-14": 157
     }
   },
   {
