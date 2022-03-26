@@ -71,19 +71,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "73.81%",
-    "uptimeWeek": "69.15%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "95.45%",
+    "status": "down",
+    "uptime": "95.47%",
+    "uptimeDay": "73.77%",
+    "uptimeWeek": "69.18%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "95.47%",
     "time": 2757,
     "timeDay": 2794,
     "timeWeek": 2782,
     "timeMonth": 2784,
     "timeYear": 2757,
     "dailyMinutesDown": {
-      "2022-03-26": 182,
+      "2022-03-26": 183,
       "2022-03-25": 436,
       "2022-03-24": 388,
       "2022-03-23": 542,
@@ -91,7 +91,7 @@
       "2022-03-21": 393,
       "2022-03-20": 435,
       "2022-03-19": 409,
-      "2022-03-18": 185
+      "2022-03-18": 168
     }
   },
   {
@@ -134,18 +134,18 @@
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
     "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "80.36%",
-    "uptimeWeek": "83.34%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "96.09%",
+    "uptime": "96.08%",
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "83.41%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "96.08%",
     "time": 2823,
     "timeDay": 3310,
-    "timeWeek": 3004,
+    "timeWeek": 3007,
     "timeMonth": 2859,
     "timeYear": 2823,
     "dailyMinutesDown": {
-      "2022-03-26": 44,
+      "2022-03-26": 37,
       "2022-03-25": 297,
       "2022-03-24": 274,
       "2022-03-23": 296,
@@ -156,7 +156,7 @@
       "2022-03-18": 416,
       "2022-03-17": 382,
       "2022-03-16": 125,
-      "2022-03-15": 129
+      "2022-03-15": 146
     }
   },
   {
@@ -264,7 +264,7 @@
     "uptimeYear": "96.15%",
     "time": 3103,
     "timeDay": 3111,
-    "timeWeek": 3118,
+    "timeWeek": 3121,
     "timeMonth": 3116,
     "timeYear": 3103,
     "dailyMinutesDown": {
