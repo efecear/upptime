@@ -79,7 +79,7 @@
     "uptimeYear": "95.48%",
     "time": 2759,
     "timeDay": 2870,
-    "timeWeek": 2798,
+    "timeWeek": 2800,
     "timeMonth": 2785,
     "timeYear": 2759,
     "dailyMinutesDown": {
@@ -134,18 +134,18 @@
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
     "status": "up",
-    "uptime": "96.01%",
-    "uptimeDay": "76.52%",
-    "uptimeWeek": "82.07%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "96.01%",
+    "uptime": "95.99%",
+    "uptimeDay": "77.55%",
+    "uptimeWeek": "82.22%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "95.99%",
     "time": 2834,
     "timeDay": 3206,
     "timeWeek": 3074,
     "timeMonth": 2875,
     "timeYear": 2834,
     "dailyMinutesDown": {
-      "2022-03-27": 189,
+      "2022-03-27": 174,
       "2022-03-26": 185,
       "2022-03-25": 297,
       "2022-03-24": 274,
@@ -156,7 +156,7 @@
       "2022-03-19": 257,
       "2022-03-18": 416,
       "2022-03-17": 382,
-      "2022-03-16": 40
+      "2022-03-16": 70
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "92.93%",
-    "uptimeYear": "95.88%",
+    "uptime": "95.87%",
+    "uptimeDay": "89.85%",
+    "uptimeWeek": "83.51%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "95.87%",
     "time": 2433,
     "timeDay": 2547,
     "timeWeek": 2602,
     "timeMonth": 2478,
     "timeYear": 2433,
     "dailyMinutesDown": {
-      "2022-03-27": 70,
+      "2022-03-27": 55,
       "2022-03-26": 261,
       "2022-03-25": 232,
       "2022-03-24": 232,
@@ -215,7 +215,7 @@
       "2022-03-17": 221,
       "2022-03-16": 216,
       "2022-03-15": 175,
-      "2022-03-14": 36
+      "2022-03-14": 56
     }
   },
   {
@@ -223,19 +223,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "95.84%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "84.93%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "95.84%",
+    "status": "down",
+    "uptime": "95.87%",
+    "uptimeDay": "89.48%",
+    "uptimeWeek": "84.92%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "95.87%",
     "time": 2954,
     "timeDay": 2813,
     "timeWeek": 3104,
     "timeMonth": 2969,
     "timeYear": 2954,
     "dailyMinutesDown": {
-      "2022-03-27": 42,
+      "2022-03-27": 43,
       "2022-03-26": 145,
       "2022-03-25": 223,
       "2022-03-24": 239,
@@ -248,7 +248,7 @@
       "2022-03-17": 383,
       "2022-03-16": 104,
       "2022-03-15": 308,
-      "2022-03-14": 54
+      "2022-03-14": 32
     }
   },
   {
@@ -258,7 +258,7 @@
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
     "uptime": "96.10%",
-    "uptimeDay": "84.92%",
+    "uptimeDay": "85.43%",
     "uptimeWeek": "87.11%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "96.10%",
