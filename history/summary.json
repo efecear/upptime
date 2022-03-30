@@ -74,27 +74,26 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "95.76%",
-    "uptimeDay": "78.43%",
-    "uptimeWeek": "71.45%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "95.76%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "78.39%",
+    "uptimeWeek": "71.44%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "95.81%",
     "time": 2774,
     "timeDay": 3014,
     "timeWeek": 2857,
     "timeMonth": 2798,
     "timeYear": 2774,
     "dailyMinutesDown": {
-      "2022-03-30": 311,
+      "2022-03-30": 312,
       "2022-03-29": 449,
       "2022-03-28": 485,
       "2022-03-27": 473,
       "2022-03-26": 339,
       "2022-03-25": 436,
       "2022-03-24": 388,
-      "2022-03-23": 542,
-      "2022-03-22": 37
+      "2022-03-23": 542
     }
   },
   {
@@ -147,7 +146,7 @@
     "time": 2873,
     "timeDay": 3507,
     "timeWeek": 3244,
-    "timeMonth": 2908,
+    "timeMonth": 2909,
     "timeYear": 2873,
     "dailyMinutesDown": {
       "2022-03-30": 249,
@@ -227,18 +226,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "89.40%",
-    "uptimeWeek": "85.00%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "96.44%",
+    "uptime": "96.42%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "96.42%",
     "time": 2983,
     "timeDay": 3579,
     "timeWeek": 3196,
     "timeMonth": 3011,
     "timeYear": 2983,
     "dailyMinutesDown": {
-      "2022-03-30": 151,
+      "2022-03-30": 146,
       "2022-03-29": 354,
       "2022-03-28": 183,
       "2022-03-27": 212,
@@ -250,7 +249,7 @@
       "2022-03-21": 196,
       "2022-03-20": 332,
       "2022-03-19": 281,
-      "2022-03-18": 24
+      "2022-03-18": 43
     }
   },
   {
@@ -294,18 +293,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
     "status": "up",
-    "uptime": "96.38%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "91.73%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "96.38%",
+    "uptime": "96.30%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "91.78%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "96.30%",
     "time": 5975,
     "timeDay": 6126,
     "timeWeek": 5934,
     "timeMonth": 5966,
     "timeYear": 5975,
     "dailyMinutesDown": {
-      "2022-03-30": 91,
+      "2022-03-30": 86,
       "2022-03-29": 160,
       "2022-03-28": 70,
       "2022-03-27": 86,
@@ -322,7 +321,7 @@
       "2022-03-16": 265,
       "2022-03-15": 209,
       "2022-03-14": 337,
-      "2022-03-13": 143
+      "2022-03-13": 212
     }
   },
   {
