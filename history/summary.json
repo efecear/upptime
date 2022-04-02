@@ -77,18 +77,18 @@
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
     "status": "up",
-    "uptime": "96.25%",
-    "uptimeDay": "63.54%",
-    "uptimeWeek": "70.23%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "96.25%",
+    "uptime": "96.22%",
+    "uptimeDay": "64.17%",
+    "uptimeWeek": "70.32%",
+    "uptimeMonth": "92.68%",
+    "uptimeYear": "96.22%",
     "time": 2781,
     "timeDay": 3021,
-    "timeWeek": 2921,
+    "timeWeek": 2919,
     "timeMonth": 2807,
     "timeYear": 2781,
     "dailyMinutesDown": {
-      "2022-04-02": 76,
+      "2022-04-02": 67,
       "2022-04-01": 501,
       "2022-03-31": 487,
       "2022-03-30": 339,
@@ -96,7 +96,7 @@
       "2022-03-28": 485,
       "2022-03-27": 473,
       "2022-03-26": 339,
-      "2022-03-25": 40
+      "2022-03-25": 70
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "96.20%",
-    "uptimeDay": "61.03%",
-    "uptimeWeek": "76.72%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "96.20%",
+    "status": "down",
+    "uptime": "96.25%",
+    "uptimeDay": "60.98%",
+    "uptimeWeek": "76.71%",
+    "uptimeMonth": "92.84%",
+    "uptimeYear": "96.25%",
     "time": 2898,
     "timeDay": 4064,
-    "timeWeek": 3337,
-    "timeMonth": 2940,
+    "timeWeek": 3340,
+    "timeMonth": 2941,
     "timeYear": 2898,
     "dailyMinutesDown": {
-      "2022-04-02": 258,
+      "2022-04-02": 259,
       "2022-04-01": 369,
       "2022-03-31": 447,
       "2022-03-30": 279,
@@ -162,7 +162,7 @@
       "2022-03-26": 185,
       "2022-03-25": 297,
       "2022-03-24": 274,
-      "2022-03-23": 221
+      "2022-03-23": 182
     }
   },
   {
@@ -204,7 +204,7 @@
     "uptimeYear": "96.61%",
     "time": 2493,
     "timeDay": 2923,
-    "timeWeek": 2831,
+    "timeWeek": 2834,
     "timeMonth": 2569,
     "timeYear": 2493,
     "dailyMinutesDown": {
@@ -227,19 +227,19 @@
     "url": "https://www.tierrafirmenodoutt.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.tierrafirmenodoutt.com.ar",
     "slug": "tierra-firme",
-    "status": "up",
-    "uptime": "96.34%",
-    "uptimeDay": "76.98%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "96.34%",
+    "status": "down",
+    "uptime": "96.37%",
+    "uptimeDay": "77.02%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "96.37%",
     "time": 2984,
     "timeDay": 2928,
     "timeWeek": 3127,
     "timeMonth": 3035,
     "timeYear": 2984,
     "dailyMinutesDown": {
-      "2022-04-02": 43,
+      "2022-04-02": 44,
       "2022-04-01": 289,
       "2022-03-31": 453,
       "2022-03-30": 199,
@@ -251,7 +251,7 @@
       "2022-03-24": 239,
       "2022-03-23": 179,
       "2022-03-22": 334,
-      "2022-03-21": 196
+      "2022-03-21": 173
     }
   },
   {
@@ -267,7 +267,7 @@
     "uptimeYear": "96.24%",
     "time": 3117,
     "timeDay": 3428,
-    "timeWeek": 3194,
+    "timeWeek": 3195,
     "timeMonth": 3145,
     "timeYear": 3117,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
     "time": 5966,
     "timeDay": 5624,
     "timeWeek": 5805,
-    "timeMonth": 5963,
+    "timeMonth": 5969,
     "timeYear": 5966,
     "dailyMinutesDown": {
       "2022-04-02": 63,
