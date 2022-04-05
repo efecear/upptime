@@ -142,19 +142,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.biopandora.com.ar",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "96.42%",
-    "uptimeDay": "69.86%",
-    "uptimeWeek": "74.18%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "96.42%",
+    "status": "down",
+    "uptime": "96.47%",
+    "uptimeDay": "69.79%",
+    "uptimeWeek": "74.17%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "96.47%",
     "time": 2930,
     "timeDay": 3637,
     "timeWeek": 3470,
     "timeMonth": 2994,
     "timeYear": 2930,
     "dailyMinutesDown": {
-      "2022-04-05": 376,
+      "2022-04-05": 377,
       "2022-04-04": 255,
       "2022-04-03": 382,
       "2022-04-02": 456,
@@ -163,7 +163,7 @@
       "2022-03-30": 279,
       "2022-03-29": 320,
       "2022-03-28": 206,
-      "2022-03-27": 94
+      "2022-03-27": 53
     }
   },
   {
@@ -199,18 +199,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "96.59%",
-    "uptimeDay": "77.72%",
-    "uptimeWeek": "76.68%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "96.59%",
+    "uptime": "96.58%",
+    "uptimeDay": "78.28%",
+    "uptimeWeek": "76.77%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "96.58%",
     "time": 2521,
-    "timeDay": 2954,
-    "timeWeek": 3169,
+    "timeDay": 2998,
+    "timeWeek": 3181,
     "timeMonth": 2619,
     "timeYear": 2521,
     "dailyMinutesDown": {
-      "2022-04-05": 316,
+      "2022-04-05": 308,
       "2022-04-04": 256,
       "2022-04-03": 459,
       "2022-04-02": 375,
@@ -219,7 +219,7 @@
       "2022-03-30": 367,
       "2022-03-29": 207,
       "2022-03-28": 266,
-      "2022-03-27": 204
+      "2022-03-27": 221
     }
   },
   {
@@ -235,7 +235,7 @@
     "uptimeYear": "96.76%",
     "time": 2992,
     "timeDay": 2931,
-    "timeWeek": 3190,
+    "timeWeek": 3192,
     "timeMonth": 3078,
     "timeYear": 2992,
     "dailyMinutesDown": {
@@ -266,8 +266,8 @@
     "uptimeMonth": "92.74%",
     "uptimeYear": "96.42%",
     "time": 3132,
-    "timeDay": 3392,
-    "timeWeek": 3246,
+    "timeDay": 3435,
+    "timeWeek": 3245,
     "timeMonth": 3178,
     "timeYear": 3132,
     "dailyMinutesDown": {
@@ -293,18 +293,18 @@
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "96.86%",
+    "uptime": "96.84%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "89.74%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "96.84%",
     "time": 5989,
     "timeDay": 6435,
     "timeWeek": 6144,
     "timeMonth": 6031,
     "timeYear": 5989,
     "dailyMinutesDown": {
-      "2022-04-05": 112,
+      "2022-04-05": 104,
       "2022-04-04": 35,
       "2022-04-03": 208,
       "2022-04-02": 194,
@@ -323,7 +323,7 @@
       "2022-03-20": 35,
       "2022-03-19": 182,
       "2022-03-18": 216,
-      "2022-03-17": 173
+      "2022-03-17": 199
     }
   },
   {
