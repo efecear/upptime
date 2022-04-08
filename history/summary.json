@@ -79,25 +79,25 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "62.54%",
-    "uptimeWeek": "68.63%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "96.65%",
+    "status": "down",
+    "uptime": "96.70%",
+    "uptimeDay": "62.50%",
+    "uptimeWeek": "69.05%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "96.70%",
     "time": 2829,
-    "timeDay": 3425,
+    "timeDay": 3453,
     "timeWeek": 3224,
     "timeMonth": 2870,
     "timeYear": 2829,
     "dailyMinutesDown": {
-      "2022-04-08": 466,
+      "2022-04-08": 467,
       "2022-04-07": 529,
       "2022-04-06": 442,
       "2022-04-05": 478,
       "2022-04-04": 532,
       "2022-04-03": 420,
-      "2022-04-02": 300
+      "2022-04-02": 257
     }
   },
   {
@@ -198,18 +198,18 @@
     "icon": "https://favicons.githubusercontent.com/www.reina-batata.com.ar",
     "slug": "almacen-reina-batata",
     "status": "up",
-    "uptime": "96.87%",
-    "uptimeDay": "67.10%",
-    "uptimeWeek": "73.45%",
-    "uptimeMonth": "93.34%",
-    "uptimeYear": "96.87%",
+    "uptime": "96.79%",
+    "uptimeDay": "67.73%",
+    "uptimeWeek": "73.54%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "96.79%",
     "time": 2557,
-    "timeDay": 3193,
+    "timeDay": 3226,
     "timeWeek": 3093,
     "timeMonth": 2690,
     "timeYear": 2557,
     "dailyMinutesDown": {
-      "2022-04-08": 407,
+      "2022-04-08": 398,
       "2022-04-07": 333,
       "2022-04-06": 474,
       "2022-04-05": 308,
@@ -217,7 +217,7 @@
       "2022-04-03": 459,
       "2022-04-02": 375,
       "2022-04-01": 216,
-      "2022-03-31": 89
+      "2022-03-31": 168
     }
   },
   {
@@ -227,17 +227,17 @@
     "slug": "tierra-firme",
     "status": "up",
     "uptime": "96.75%",
-    "uptimeDay": "81.58%",
-    "uptimeWeek": "84.35%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "82.21%",
+    "uptimeWeek": "84.61%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "96.75%",
     "time": 3000,
     "timeDay": 3137,
-    "timeWeek": 3139,
+    "timeWeek": 3133,
     "timeMonth": 3074,
     "timeYear": 3000,
     "dailyMinutesDown": {
-      "2022-04-08": 246,
+      "2022-04-08": 237,
       "2022-04-07": 330,
       "2022-04-06": 145,
       "2022-04-05": 207,
@@ -249,7 +249,7 @@
       "2022-03-30": 199,
       "2022-03-29": 354,
       "2022-03-28": 183,
-      "2022-03-27": 31
+      "2022-03-27": 47
     }
   },
   {
@@ -259,9 +259,9 @@
     "slug": "nodo-utt-ramos-mejia",
     "status": "up",
     "uptime": "96.48%",
-    "uptimeDay": "82.97%",
-    "uptimeWeek": "83.35%",
-    "uptimeMonth": "92.53%",
+    "uptimeDay": "83.60%",
+    "uptimeWeek": "83.44%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "96.48%",
     "time": 3157,
     "timeDay": 4049,
@@ -269,7 +269,7 @@
     "timeMonth": 3216,
     "timeYear": 3157,
     "dailyMinutesDown": {
-      "2022-04-08": 225,
+      "2022-04-08": 216,
       "2022-04-07": 94,
       "2022-04-06": 295,
       "2022-04-05": 278,
@@ -282,7 +282,7 @@
       "2022-03-29": 192,
       "2022-03-28": 297,
       "2022-03-27": 164,
-      "2022-03-26": 28
+      "2022-03-26": 46
     }
   },
   {
