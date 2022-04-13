@@ -84,15 +84,15 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "59.80%",
-    "uptimeWeek": "63.54%",
-    "uptimeMonth": "91.61%",
-    "uptimeYear": "96.35%",
+    "status": "down",
+    "uptime": "96.37%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "63.74%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "96.37%",
     "time": 2852,
-    "timeDay": 3047,
-    "timeWeek": 3265,
+    "timeDay": 3070,
+    "timeWeek": 3266,
     "timeMonth": 2943,
     "timeYear": 2852,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
       "2022-04-09": 475,
       "2022-04-08": 559,
       "2022-04-07": 529,
-      "2022-04-06": 343
+      "2022-04-06": 322
     }
   },
   {
@@ -151,7 +151,7 @@
     "status": "up",
     "uptime": "96.49%",
     "uptimeDay": "60.57%",
-    "uptimeWeek": "69.07%",
+    "uptimeWeek": "69.17%",
     "uptimeMonth": "92.04%",
     "uptimeYear": "96.49%",
     "time": 2972,
