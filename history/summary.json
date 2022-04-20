@@ -91,15 +91,15 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "64.32%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "64.29%",
     "uptimeWeek": "61.90%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "96.51%",
     "time": 2895,
     "timeDay": 3499,
-    "timeWeek": 3347,
+    "timeWeek": 3307,
     "timeMonth": 3063,
     "timeYear": 2895,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
       "2022-04-16": 616,
       "2022-04-15": 612,
       "2022-04-14": 522,
-      "2022-04-13": 475
+      "2022-04-13": 410
     }
   },
   {
@@ -157,7 +157,7 @@
     "slug": "almacen-bio-pandora",
     "status": "up",
     "uptime": "96.79%",
-    "uptimeDay": "79.19%",
+    "uptimeDay": "79.90%",
     "uptimeWeek": "73.74%",
     "uptimeMonth": "91.95%",
     "uptimeYear": "96.79%",
@@ -223,7 +223,7 @@
     "time": 2639,
     "timeDay": 3264,
     "timeWeek": 3097,
-    "timeMonth": 2929,
+    "timeMonth": 2930,
     "timeYear": 2639,
     "dailyMinutesDown": {
       "2022-04-20": 362,
@@ -247,7 +247,7 @@
     "status": "up",
     "uptime": "97.06%",
     "uptimeDay": "81.09%",
-    "uptimeWeek": "82.15%",
+    "uptimeWeek": "82.18%",
     "uptimeMonth": "92.64%",
     "uptimeYear": "97.06%",
     "time": 3018,
@@ -285,7 +285,7 @@
     "uptimeYear": "97.48%",
     "time": 3203,
     "timeDay": 2848,
-    "timeWeek": 3571,
+    "timeWeek": 3579,
     "timeMonth": 3341,
     "timeYear": 3203,
     "dailyMinutesDown": {
@@ -312,19 +312,19 @@
     "url": "https://www.nodouttmoron.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.nodouttmoron.com.ar",
     "slug": "nodo-utt-moron",
-    "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "80.65%",
-    "uptimeWeek": "88.98%",
-    "uptimeMonth": "93.83%",
-    "uptimeYear": "97.54%",
+    "status": "down",
+    "uptime": "97.56%",
+    "uptimeDay": "80.58%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "97.56%",
     "time": 6057,
     "timeDay": 7112,
     "timeWeek": 6809,
-    "timeMonth": 6170,
+    "timeMonth": 6168,
     "timeYear": 6057,
     "dailyMinutesDown": {
-      "2022-04-20": 154,
+      "2022-04-20": 155,
       "2022-04-19": 150,
       "2022-04-18": 154,
       "2022-04-17": 54,
@@ -343,7 +343,7 @@
       "2022-04-04": 35,
       "2022-04-03": 208,
       "2022-04-02": 194,
-      "2022-04-01": 49
+      "2022-04-01": 17
     }
   },
   {
