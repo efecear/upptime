@@ -111,3 +111,6 @@ i18n:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  uptime: "*/120 * * * *"
