@@ -20,16 +20,22 @@ sites:
   - name: Maiá Noé
     url: https://www.maianoe.com.ar
   - name: Almacén BioPandora
+    check: "tcp-ping"
+    port: 80
     url: https://www.biopandora.com.ar
   - name: Abocado Cantina
     url: https://www.abocado.com.ar
   - name: Almacén Reina Batata
     url: https://www.reina-batata.com.ar
   - name: Tierra Firme
+    check: "tcp-ping"
+    port: 80
     url: https://www.tierrafirmenodoutt.com.ar
   - name: Nodo UTT Ramos Mejia
     url: https://www.uttnodoramosmejia.com.ar
   - name: Nodo UTT Morón
+    check: "tcp-ping"
+    port: 80
     url: https://www.nodouttmoron.com.ar
   - name: Vía Judicial
     url: https://www.viajudicial.com.ar
