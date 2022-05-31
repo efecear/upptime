@@ -18,9 +18,8 @@ sites:
   - name: Maiá Noé
     url: https://www.maianoe.com.ar
   - name: Almacén BioPandora
-    check: "tcp-ping"
-    port: 80
     url: https://www.biopandora.com.ar
+    icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
   - name: Abocado Cantina
     url: https://www.abocado.com.ar
   - name: Almacén Reina Batata
