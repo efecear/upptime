@@ -10,8 +10,6 @@ sites:
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
   - name: Valentina Música
-    check: "tcp-ping"
-    port: 80
     url: https://valentina.musica.ar
     icon: https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png  
   - name: La Semilla Que Crece
@@ -28,9 +26,8 @@ sites:
   - name: Almacén Reina Batata
     url: https://www.reina-batata.com.ar
   - name: Tierra Firme
-    check: "tcp-ping"
-    port: 80
     url: https://www.tierrafirmenodoutt.com.ar
+    icon: https://www.tierrafirmenodoutt.com.ar/wp-content/uploads/tierra-firme.png
   - name: Nodo UTT Ramos Mejia
     url: https://www.uttnodoramosmejia.com.ar
   - name: Nodo UTT Morón
