@@ -22,6 +22,7 @@ sites:
     icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
   - name: Abocado Cantina
     url: https://www.abocado.com.ar
+    icon: https://abocado.com.ar/wp-content/uploads/2019/07/cropped-icon-192x192.png
   - name: Almacén Reina Batata
     url: https://www.reina-batata.com.ar
   - name: Tierra Firme
@@ -30,8 +31,6 @@ sites:
   - name: Nodo UTT Ramos Mejia
     url: https://www.uttnodoramosmejia.com.ar
   - name: Nodo UTT Morón
-    check: "tcp-ping"
-    port: 80
     url: https://www.nodouttmoron.com.ar
   - name: Vía Judicial
     url: https://www.viajudicial.com.ar
