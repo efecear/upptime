@@ -23,8 +23,6 @@ sites:
   - name: Abocado Cantina
     url: https://www.abocado.com.ar
     icon: https://abocado.com.ar/wp-content/uploads/2019/07/cropped-icon-192x192.png
-  - name: Almacén Reina Batata
-    url: https://www.reina-batata.com.ar
   - name: Tierra Firme
     url: https://www.tierrafirmenodoutt.com.ar
     icon: https://www.tierrafirmenodoutt.com.ar/wp-content/uploads/tierra-firme.png
