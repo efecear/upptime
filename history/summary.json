@@ -12,8 +12,8 @@
     "uptimeYear": "99.53%",
     "time": 4172,
     "timeDay": 3663,
-    "timeWeek": 4272,
-    "timeMonth": 4139,
+    "timeWeek": 4407,
+    "timeMonth": 4072,
     "timeYear": 4172,
     "dailyMinutesDown": {
       "2022-06-19": 21,
@@ -54,8 +54,8 @@
     "uptimeYear": "98.19%",
     "time": 2817,
     "timeDay": 1695,
-    "timeWeek": 1703,
-    "timeMonth": 1713,
+    "timeWeek": 1640,
+    "timeMonth": 1709,
     "timeYear": 2817,
     "dailyMinutesDown": {
       "2022-05-03": 50,
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-20": 1384,
+      "2022-06-20": 1394,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
@@ -144,19 +144,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "97.00%",
-    "uptimeDay": "56.76%",
-    "uptimeWeek": "63.32%",
-    "uptimeMonth": "86.33%",
-    "uptimeYear": "97.00%",
+    "status": "down",
+    "uptime": "97.02%",
+    "uptimeDay": "56.72%",
+    "uptimeWeek": "63.42%",
+    "uptimeMonth": "86.40%",
+    "uptimeYear": "97.02%",
     "time": 2963,
     "timeDay": 4261,
     "timeWeek": 3637,
-    "timeMonth": 3361,
+    "timeMonth": 3365,
     "timeYear": 2963,
     "dailyMinutesDown": {
-      "2022-06-20": 624,
+      "2022-06-20": 625,
       "2022-06-19": 451,
       "2022-06-18": 625,
       "2022-06-17": 335,
@@ -166,7 +166,7 @@
       "2022-06-13": 770,
       "2022-06-12": 601,
       "2022-06-11": 693,
-      "2022-06-10": 279
+      "2022-06-10": 248
     }
   },
   {
@@ -182,8 +182,8 @@
     "uptimeYear": "98.18%",
     "time": 2553,
     "timeDay": 2172,
-    "timeWeek": 2129,
-    "timeMonth": 2377,
+    "timeWeek": 2158,
+    "timeMonth": 2356,
     "timeYear": 2553,
     "dailyMinutesDown": {
       "2022-06-09": 60,
@@ -222,7 +222,7 @@
     "uptimeYear": "97.50%",
     "time": 3193,
     "timeDay": 4239,
-    "timeWeek": 3930,
+    "timeWeek": 3946,
     "timeMonth": 4115,
     "timeYear": 3193,
     "dailyMinutesDown": {
@@ -253,8 +253,8 @@
     "uptimeYear": "99.68%",
     "time": 1934,
     "timeDay": 2085,
-    "timeWeek": 2127,
-    "timeMonth": 1923,
+    "timeWeek": 2175,
+    "timeMonth": 1930,
     "timeYear": 1934,
     "dailyMinutesDown": {
       "2022-06-20": 38,
@@ -282,14 +282,14 @@
     "icon": "https://www.tierrafirmenodoutt.com.ar/wp-content/uploads/tierra-firme.png",
     "slug": "tierra-firme",
     "status": "up",
-    "uptime": "87.78%",
+    "uptime": "87.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.66%",
-    "uptimeYear": "87.78%",
+    "uptimeMonth": "64.68%",
+    "uptimeYear": "87.79%",
     "time": 3049,
     "timeDay": 2486,
-    "timeWeek": 3091,
+    "timeWeek": 3209,
     "timeMonth": 2905,
     "timeYear": 3049,
     "dailyMinutesDown": {
@@ -338,7 +338,7 @@
     "time": 3227,
     "timeDay": 3451,
     "timeWeek": 3591,
-    "timeMonth": 3706,
+    "timeMonth": 3715,
     "timeYear": 3227,
     "dailyMinutesDown": {
       "2022-05-20": 129,
@@ -376,7 +376,7 @@
     "time": 2237,
     "timeDay": 1210,
     "timeWeek": 1180,
-    "timeMonth": 3292,
+    "timeMonth": 3353,
     "timeYear": 2237,
     "dailyMinutesDown": {
       "2022-04-29": 988,
@@ -418,7 +418,7 @@
     "time": 3033,
     "timeDay": 3393,
     "timeWeek": 3121,
-    "timeMonth": 2712,
+    "timeMonth": 2727,
     "timeYear": 3033,
     "dailyMinutesDown": {
       "2022-06-09": 60,
@@ -464,7 +464,7 @@
     "time": 3039,
     "timeDay": 3914,
     "timeWeek": 2711,
-    "timeMonth": 3224,
+    "timeMonth": 3225,
     "timeYear": 3039,
     "dailyMinutesDown": {
       "2022-05-20": 128
@@ -484,7 +484,7 @@
     "time": 3131,
     "timeDay": 1521,
     "timeWeek": 1957,
-    "timeMonth": 2060,
+    "timeMonth": 2037,
     "timeYear": 3131,
     "dailyMinutesDown": {
       "2022-05-17": 72,
