@@ -13,7 +13,7 @@
     "time": 4130,
     "timeDay": 3286,
     "timeWeek": 3355,
-    "timeMonth": 3883,
+    "timeMonth": 3950,
     "timeYear": 4130,
     "dailyMinutesDown": {
       "2022-07-01": 19,
@@ -61,7 +61,7 @@
     "time": 2787,
     "timeDay": 4958,
     "timeWeek": 2181,
-    "timeMonth": 1844,
+    "timeMonth": 1874,
     "timeYear": 2787,
     "dailyMinutesDown": {
       "2022-05-03": 50,
@@ -97,18 +97,18 @@
     "icon": "https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png",
     "slug": "valentina-musica",
     "status": "down",
-    "uptime": "58.97%",
+    "uptime": "58.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.97%",
+    "uptimeYear": "58.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-05": 110,
+      "2022-07-05": 209,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
@@ -165,19 +165,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "45.65%",
-    "uptimeWeek": "53.52%",
-    "uptimeMonth": "82.82%",
-    "uptimeYear": "96.58%",
+    "status": "down",
+    "uptime": "96.62%",
+    "uptimeDay": "52.48%",
+    "uptimeWeek": "54.50%",
+    "uptimeMonth": "83.02%",
+    "uptimeYear": "96.62%",
     "time": 2961,
     "timeDay": 2415,
     "timeWeek": 2883,
     "timeMonth": 3199,
     "timeYear": 2961,
     "dailyMinutesDown": {
-      "2022-07-05": 79,
+      "2022-07-05": 80,
       "2022-07-04": 815,
       "2022-07-03": 560,
       "2022-07-02": 651,
@@ -188,8 +188,7 @@
       "2022-06-27": 616,
       "2022-06-26": 627,
       "2022-06-25": 627,
-      "2022-06-24": 851,
-      "2022-06-23": 89
+      "2022-06-24": 851
     }
   },
   {
@@ -206,7 +205,7 @@
     "time": 2528,
     "timeDay": 2377,
     "timeWeek": 2230,
-    "timeMonth": 2280,
+    "timeMonth": 2301,
     "timeYear": 2528,
     "dailyMinutesDown": {
       "2022-06-09": 60,
@@ -237,18 +236,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "74.09%",
-    "uptimeWeek": "64.66%",
-    "uptimeMonth": "84.73%",
-    "uptimeYear": "96.94%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "80.91%",
+    "uptimeWeek": "65.63%",
+    "uptimeMonth": "84.80%",
+    "uptimeYear": "96.96%",
     "time": 3226,
     "timeDay": 2899,
-    "timeWeek": 3693,
-    "timeMonth": 3971,
+    "timeWeek": 3692,
+    "timeMonth": 3975,
     "timeYear": 3226,
     "dailyMinutesDown": {
+      "2022-07-05": 1,
       "2022-07-04": 484,
       "2022-07-03": 472,
       "2022-07-02": 577,
@@ -261,8 +261,7 @@
       "2022-06-25": 536,
       "2022-06-24": 900,
       "2022-06-23": 517,
-      "2022-06-22": 411,
-      "2022-06-21": 30
+      "2022-06-22": 411
     }
   },
   {
@@ -279,7 +278,7 @@
     "time": 1906,
     "timeDay": 1605,
     "timeWeek": 1636,
-    "timeMonth": 1819,
+    "timeMonth": 1837,
     "timeYear": 1906,
     "dailyMinutesDown": {
       "2022-07-03": 24,
@@ -321,7 +320,7 @@
     "time": 3061,
     "timeDay": 2411,
     "timeWeek": 2920,
-    "timeMonth": 3504,
+    "timeMonth": 3562,
     "timeYear": 3061,
     "dailyMinutesDown": {
       "2022-06-04": 54,
@@ -369,7 +368,7 @@
     "time": 3227,
     "timeDay": 2346,
     "timeWeek": 3037,
-    "timeMonth": 3480,
+    "timeMonth": 3501,
     "timeYear": 3227,
     "dailyMinutesDown": {
       "2022-05-20": 129,
@@ -407,7 +406,7 @@
     "time": 2189,
     "timeDay": 2060,
     "timeWeek": 1221,
-    "timeMonth": 1773,
+    "timeMonth": 1825,
     "timeYear": 2189,
     "dailyMinutesDown": {
       "2022-04-29": 988,
@@ -449,7 +448,7 @@
     "time": 3010,
     "timeDay": 3517,
     "timeWeek": 2702,
-    "timeMonth": 2728,
+    "timeMonth": 2769,
     "timeYear": 3010,
     "dailyMinutesDown": {
       "2022-06-09": 60,
@@ -495,7 +494,7 @@
     "time": 3024,
     "timeDay": 2324,
     "timeWeek": 2612,
-    "timeMonth": 2730,
+    "timeMonth": 2760,
     "timeYear": 3024,
     "dailyMinutesDown": {
       "2022-05-20": 128
@@ -515,7 +514,7 @@
     "time": 3053,
     "timeDay": 2691,
     "timeWeek": 2008,
-    "timeMonth": 2129,
+    "timeMonth": 2190,
     "timeYear": 3053,
     "dailyMinutesDown": {
       "2022-05-17": 72,
