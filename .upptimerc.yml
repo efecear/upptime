@@ -36,6 +36,8 @@ sites:
     url: https://www.nodo-florida.net.ar
   - name: Jorge Retamoza Web
     url: https://www.retamoza.com.ar
+  - name: Cooperativa Mercado Sano
+    url: https://www.mercadosano.com.ar
 
 assignees:
   - efecear
