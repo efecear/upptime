@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 414,
+      "2022-07-20": 434,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -181,19 +181,19 @@
     "url": "https://www.lasemillaquecrece.com.ar",
     "icon": "https://www.lasemillaquecrece.com.ar/wp-content/uploads/2020/08/icono.jpg",
     "slug": "la-semilla-que-crece",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "48.26%",
-    "uptimeWeek": "58.68%",
-    "uptimeMonth": "85.54%",
-    "uptimeYear": "97.38%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "48.22%",
+    "uptimeWeek": "58.88%",
+    "uptimeMonth": "85.62%",
+    "uptimeYear": "97.40%",
     "time": 2965,
     "timeDay": 2954,
     "timeWeek": 3097,
-    "timeMonth": 3039,
+    "timeMonth": 3037,
     "timeYear": 2965,
     "dailyMinutesDown": {
-      "2022-07-20": 282,
+      "2022-07-20": 283,
       "2022-07-19": 517,
       "2022-07-18": 740,
       "2022-07-17": 622,
@@ -203,8 +203,7 @@
       "2022-07-13": 491,
       "2022-07-12": 785,
       "2022-07-11": 646,
-      "2022-07-10": 541,
-      "2022-07-09": 35
+      "2022-07-10": 541
     }
   },
   {
@@ -253,19 +252,19 @@
     "url": "https://www.biopandora.com.ar",
     "icon": "https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png",
     "slug": "almacen-bio-pandora",
-    "status": "up",
-    "uptime": "97.81%",
-    "uptimeDay": "70.81%",
+    "status": "down",
+    "uptime": "97.83%",
+    "uptimeDay": "70.75%",
     "uptimeWeek": "68.72%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "97.81%",
+    "uptimeMonth": "88.08%",
+    "uptimeYear": "97.83%",
     "time": 3264,
     "timeDay": 3524,
     "timeWeek": 4014,
     "timeMonth": 3821,
     "timeYear": 3264,
     "dailyMinutesDown": {
-      "2022-07-20": 154,
+      "2022-07-20": 155,
       "2022-07-19": 462,
       "2022-07-18": 388,
       "2022-07-17": 383,
@@ -277,7 +276,7 @@
       "2022-07-11": 543,
       "2022-07-10": 360,
       "2022-07-09": 401,
-      "2022-07-08": 134
+      "2022-07-08": 89
     }
   },
   {
