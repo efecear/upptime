@@ -318,7 +318,7 @@
     "timeMonth": 0,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2022-10-12": 810,
+      "2022-10-12": 812,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
@@ -406,18 +406,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodocasaa.com.ar.ico",
     "slug": "casa-a",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-12": 2
+      "2022-10-12": 4
     }
   },
   {
@@ -517,7 +517,7 @@
     "slug": "via-judicial",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "0.31%",
+    "uptimeDay": "0.44%",
     "uptimeWeek": "78.49%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "98.44%",
