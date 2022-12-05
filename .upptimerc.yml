@@ -41,8 +41,9 @@ sites:
   - name: Jorge Retamoza Web
     url: https://www.retamoza.com.ar
   - name: Almacenata
-    url: http://www.almacenata.com.ar
     url: http://www.almacenata.coop.ar
+  - name: Almacenata
+    url: http://www.almacenata.com.ar
     
 
 assignees:
