@@ -255,18 +255,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maianoe.com.ar.ico",
     "slug": "maia-noe",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "68.87%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.81%",
+    "uptimeDay": "66.58%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.81%",
     "time": 2447,
     "timeDay": 0,
     "timeWeek": 5428,
     "timeMonth": 3719,
     "timeYear": 2447,
     "dailyMinutesDown": {
-      "2022-12-07": 313,
+      "2022-12-07": 346,
       "2022-12-06": 135,
       "2022-12-04": 39,
       "2022-12-01": 22,
@@ -346,7 +346,7 @@
     "uptime": "77.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.64%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "77.70%",
     "time": 1959,
     "timeDay": 0,
@@ -551,10 +551,10 @@
     "url": "https://www.uttnodoramosmejia.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.uttnodoramosmejia.com.ar.ico",
     "slug": "nodo-utt-ramos-mejia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.33%",
     "time": 3230,
@@ -563,6 +563,7 @@
     "timeMonth": 3604,
     "timeYear": 3230,
     "dailyMinutesDown": {
+      "2022-12-07": 2,
       "2022-11-10": 34,
       "2022-10-27": 34,
       "2022-10-08": 20,
@@ -585,7 +586,7 @@
       "2022-04-07": 94,
       "2022-04-06": 295,
       "2022-04-05": 278,
-      "2022-04-04": 150
+      "2022-04-04": 132
     }
   },
   {
@@ -818,7 +819,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 314,
+      "2022-12-07": 347,
       "2022-12-06": 1440,
       "2022-12-05": 84
     }
@@ -840,7 +841,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 314,
+      "2022-12-07": 347,
       "2022-12-06": 1440,
       "2022-12-05": 84
     }
