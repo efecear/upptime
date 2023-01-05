@@ -20,9 +20,8 @@ sites:
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
     icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
-  - name: Abocado Cantina
-    url: https://www.abocado.com.ar
-    icon: https://abocado.com.ar/wp-content/uploads/2019/07/cropped-icon-192x192.png
+  - name: UTT Nodo Morón
+    url: https://www.uttnodomoron.com.ar
   - name: Casa A
     url: http://nodocasaa.com.ar
   - name: Tierra Firme
@@ -42,6 +41,8 @@ sites:
     url: https://www.retamoza.com.ar
   - name: Almacenata
     url: http://www.almacenata.com.ar
+  - name: Granja Cooperativa La Tandilera
+    url: http://www.latandilera.com.ar
     
 
 assignees:
