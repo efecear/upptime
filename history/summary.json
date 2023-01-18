@@ -359,19 +359,19 @@
     "url": "https://www.uttnodomoron.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.uttnodomoron.com.ar.ico",
     "slug": "utt-nodo-moron",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3067,
-    "timeDay": 2976,
-    "timeWeek": 3016,
-    "timeMonth": 3067,
-    "timeYear": 3067,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 3111,
+    "timeDay": 3349,
+    "timeWeek": 3105,
+    "timeMonth": 3111,
+    "timeYear": 3111,
     "dailyMinutesDown": {
-      "2023-01-18": 2
+      "2023-01-18": 26
     }
   },
   {
