@@ -118,18 +118,18 @@
     "icon": "https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png",
     "slug": "valentina-musica",
     "status": "up",
-    "uptime": "80.44%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "80.44%",
+    "uptime": "80.45%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "80.45%",
     "time": 2542,
     "timeDay": 1891,
     "timeWeek": 2125,
     "timeMonth": 1625,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2023-02-10": 42,
+      "2023-02-10": 32,
       "2023-02-04": 30,
       "2023-01-25": 28,
       "2023-01-18": 26,
@@ -272,7 +272,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.78%",
     "time": 2364,
     "timeDay": 1776,
     "timeWeek": 1855,
@@ -316,8 +316,7 @@
       "2022-02-22": 896,
       "2022-02-21": 46,
       "2022-02-14": 117,
-      "2022-02-13": 19,
-      "2022-02-11": 606
+      "2022-02-13": 19
     }
   },
   {
@@ -568,7 +567,7 @@
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.17%",
     "time": 2691,
     "timeDay": 1994,
     "timeWeek": 1920,
@@ -632,8 +631,7 @@
       "2022-02-21": 45,
       "2022-02-18": 16,
       "2022-02-14": 106,
-      "2022-02-13": 18,
-      "2022-02-11": 597
+      "2022-02-13": 18
     }
   },
   {
@@ -793,11 +791,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodomontecastro.com.ar.ico",
     "slug": "nodomontecastro",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 5123,
     "timeDay": 2869,
     "timeWeek": 5877,
