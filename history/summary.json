@@ -315,8 +315,7 @@
       "2022-02-24": 111,
       "2022-02-22": 896,
       "2022-02-21": 46,
-      "2022-02-14": 117,
-      "2022-02-13": 19
+      "2022-02-14": 117
     }
   },
   {
@@ -384,11 +383,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodocasaa.com.ar.ico",
     "slug": "casa-a",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 4097,
     "timeDay": 3176,
     "timeWeek": 4591,
@@ -630,8 +629,7 @@
       "2022-02-22": 878,
       "2022-02-21": 45,
       "2022-02-18": 16,
-      "2022-02-14": 106,
-      "2022-02-13": 18
+      "2022-02-14": 106
     }
   },
   {
@@ -746,11 +744,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.almacenata.com.ar.ico",
     "slug": "almacenata",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "95.47%",
+    "uptimeYear": "95.48%",
     "time": 3632,
     "timeDay": 3738,
     "timeWeek": 3333,
@@ -790,19 +788,20 @@
     "url": "http://nodomontecastro.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nodomontecastro.com.ar.ico",
     "slug": "nodomontecastro",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 4879,
-    "timeDay": 2287,
-    "timeWeek": 5668,
-    "timeMonth": 4879,
-    "timeYear": 4879,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 4779,
+    "timeDay": 2486,
+    "timeWeek": 5336,
+    "timeMonth": 4779,
+    "timeYear": 4779,
     "dailyMinutesDown": {
-      "2023-02-12": 1,
+      "2023-02-13": 70,
+      "2023-02-12": 15,
       "2023-02-08": 31,
       "2023-01-24": 100
     }
