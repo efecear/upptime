@@ -1,7 +1,7 @@
 url: http://www.almacenata.com.ar
-status: down
-code: 503
-responseTime: 696
-lastUpdated: 2023-03-30T01:05:17.170Z
+status: up
+code: 200
+responseTime: 4521
+lastUpdated: 2023-03-30T02:28:29.575Z
 startTime: Mon Dec 05 2022 22:35:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
