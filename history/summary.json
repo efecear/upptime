@@ -13,8 +13,8 @@
     "time": 4992,
     "timeDay": 19242,
     "timeWeek": 7977,
-    "timeMonth": 6132,
-    "timeYear": 5185,
+    "timeMonth": 6172,
+    "timeYear": 5189,
     "dailyMinutesDown": {
       "2023-03-13": 31,
       "2023-03-04": 61,
@@ -53,8 +53,7 @@
       "2022-05-17": 62,
       "2022-05-13": 54,
       "2022-05-05": 128,
-      "2022-04-27": 22,
-      "2022-04-04": 41
+      "2022-04-27": 22
     }
   },
   {
@@ -71,8 +70,8 @@
     "time": 3102,
     "timeDay": 2299,
     "timeWeek": 2982,
-    "timeMonth": 5630,
-    "timeYear": 2811,
+    "timeMonth": 5593,
+    "timeYear": 2809,
     "dailyMinutesDown": {
       "2023-03-11": 24,
       "2023-03-02": 28,
@@ -104,8 +103,7 @@
       "2022-04-11": 51,
       "2022-04-10": 71,
       "2022-04-09": 129,
-      "2022-04-08": 109,
-      "2022-04-04": 35
+      "2022-04-08": 109
     }
   },
   {
@@ -114,18 +112,19 @@
     "icon": "https://valentina.musica.ar/wp-content/uploads/2020/04/cropped-external-content.duckduckgo.com_-32x32.png",
     "slug": "valentina-musica",
     "status": "down",
-    "uptime": "83.03%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "81.88%",
+    "uptime": "83.01%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "81.86%",
     "time": 2402,
     "timeDay": 1073,
     "timeWeek": 2396,
-    "timeMonth": 1953,
+    "timeMonth": 1959,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2023-04-03": 1,
+      "2023-04-04": 77,
+      "2023-04-03": 57,
       "2023-03-31": 31,
       "2023-03-16": 25,
       "2023-03-13": 30,
@@ -239,8 +238,8 @@
     "time": 3004,
     "timeDay": 2387,
     "timeWeek": 2774,
-    "timeMonth": 2701,
-    "timeYear": 3003,
+    "timeMonth": 2723,
+    "timeYear": 3002,
     "dailyMinutesDown": {
       "2023-03-13": 30,
       "2023-03-04": 23,
@@ -278,7 +277,7 @@
     "time": 2342,
     "timeDay": 2659,
     "timeWeek": 4712,
-    "timeMonth": 2311,
+    "timeMonth": 2328,
     "timeYear": 2200,
     "dailyMinutesDown": {
       "2023-03-27": 26,
@@ -307,8 +306,7 @@
       "2022-07-12": 171,
       "2022-06-09": 60,
       "2022-06-08": 31,
-      "2022-05-04": 475,
-      "2022-04-04": 77
+      "2022-05-04": 475
     }
   },
   {
@@ -325,8 +323,8 @@
     "time": 3589,
     "timeDay": 2947,
     "timeWeek": 3026,
-    "timeMonth": 3052,
-    "timeYear": 3593,
+    "timeMonth": 3056,
+    "timeYear": 3595,
     "dailyMinutesDown": {
       "2023-03-13": 29,
       "2023-02-16": 32,
@@ -365,7 +363,7 @@
     "time": 3141,
     "timeDay": 2483,
     "timeWeek": 3703,
-    "timeMonth": 3262,
+    "timeMonth": 3264,
     "timeYear": 3141,
     "dailyMinutesDown": {
       "2023-03-13": 29,
@@ -390,7 +388,7 @@
     "time": 4277,
     "timeDay": 11472,
     "timeWeek": 5779,
-    "timeMonth": 4503,
+    "timeMonth": 4505,
     "timeYear": 4277,
     "dailyMinutesDown": {
       "2023-04-03": 31,
@@ -425,8 +423,8 @@
     "time": 3355,
     "timeDay": 2712,
     "timeWeek": 3104,
-    "timeMonth": 3588,
-    "timeYear": 3374,
+    "timeMonth": 3593,
+    "timeYear": 3375,
     "dailyMinutesDown": {
       "2023-03-15": 26,
       "2023-03-13": 29,
@@ -490,7 +488,7 @@
     "timeDay": 3077,
     "timeWeek": 3286,
     "timeMonth": 3846,
-    "timeYear": 3460,
+    "timeYear": 3461,
     "dailyMinutesDown": {
       "2023-03-13": 28,
       "2023-02-27": 34,
@@ -536,7 +534,7 @@
     "timeDay": 899,
     "timeWeek": 1144,
     "timeMonth": 1972,
-    "timeYear": 1742,
+    "timeYear": 1740,
     "dailyMinutesDown": {
       "2023-03-22": 106,
       "2023-02-20": 117,
@@ -566,8 +564,7 @@
       "2022-04-11": 51,
       "2022-04-10": 71,
       "2022-04-09": 125,
-      "2022-04-08": 70,
-      "2022-04-04": 35
+      "2022-04-08": 70
     }
   },
   {
@@ -585,7 +582,7 @@
     "timeDay": 2332,
     "timeWeek": 1798,
     "timeMonth": 1845,
-    "timeYear": 2417,
+    "timeYear": 2415,
     "dailyMinutesDown": {
       "2023-03-31": 30,
       "2023-03-23": 27,
@@ -632,8 +629,7 @@
       "2022-05-02": 810,
       "2022-05-01": 1440,
       "2022-04-30": 1352,
-      "2022-04-11": 43,
-      "2022-04-04": 77
+      "2022-04-11": 43
     }
   },
   {
