@@ -72,7 +72,7 @@
     "timeDay": 2628,
     "timeWeek": 6476,
     "timeMonth": 3886,
-    "timeYear": 3121,
+    "timeYear": 3125,
     "dailyMinutesDown": {
       "2023-04-21": 55,
       "2023-04-17": 25,
@@ -268,7 +268,7 @@
     "timeDay": 7124,
     "timeWeek": 5869,
     "timeMonth": 4747,
-    "timeYear": 2388,
+    "timeYear": 2389,
     "dailyMinutesDown": {
       "2023-04-19": 30,
       "2023-03-27": 26,
@@ -315,7 +315,7 @@
     "timeDay": 1579,
     "timeWeek": 2699,
     "timeMonth": 2927,
-    "timeYear": 3643,
+    "timeYear": 3642,
     "dailyMinutesDown": {
       "2023-04-19": 30,
       "2023-03-13": 29,
@@ -374,10 +374,10 @@
     "url": "http://nodocasaa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nodocasaa.com.ar.ico",
     "slug": "casa-a",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "97.82%",
     "time": 4278,
@@ -386,6 +386,7 @@
     "timeMonth": 4795,
     "timeYear": 4278,
     "dailyMinutesDown": {
+      "2023-04-23": 1,
       "2023-04-21": 67,
       "2023-04-19": 30,
       "2023-04-13": 30,
@@ -522,7 +523,7 @@
     "timeDay": 1206,
     "timeWeek": 3319,
     "timeMonth": 2120,
-    "timeYear": 1893,
+    "timeYear": 1896,
     "dailyMinutesDown": {
       "2023-04-21": 52,
       "2023-04-17": 24,
