@@ -57,8 +57,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: estado.efece.ar
   baseUrl: /
-  logoUrl: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  name: Estado de Servicios | efece.ar
+# logoUrl: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
+# name: Estado de Servicios
   introTitle: "Monitor de actividad en tiempo real. "
   introMessage: Nos encargamos de todos los aspectos técnicos para brindarte soluciones. Aquí el estado del servicio con **datos en tiempo real**. Si tienes un incidente/inconveniente que aún no está reportado puedes [escribinos](https://efece.ar/#contact).
   theme: light
