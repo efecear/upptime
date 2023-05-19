@@ -20,7 +20,7 @@ sites:
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
     icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
-  - name: Nodo Monte Castro
+  - name: Afip Api Facturador
     url: https://afip.dev    
   - name: UTT Nodo Morón
     url: https://www.uttnodomoron.com.ar
@@ -57,18 +57,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: estado.efece.ar
   baseUrl: /
-  #logoUrl: https://efece.ar/wp-content/uploads/2021/08/logo-300x300.png
+  logoUrl: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
   name: Estado de Servicios | efece.ar
   introTitle: "Monitor de actividad en tiempo real. "
   introMessage: Nos encargamos de todos los aspectos técnicos para brindarte soluciones. Aquí el estado del servicio con **datos en tiempo real**. Si tienes un incidente/inconveniente que aún no está reportado puedes [escribinos](https://efece.ar/#contact).
   theme: light
-  favicon: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
-  faviconSvg: https://efece.ar/wp-content/uploads/2021/08/logo-150x150.png
-  navbar:
-    - title: Status
-      href: /
-    - title: Web
-      href: https://efece.ar
+  favicon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
+  faviconSvg: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
+ # navbar:
+ #  - title: Status
+ #    href: /
+ #  - title: Web
+ #    href: https://efece.ar
   
 i18n:
   activeIncidents: Incidentes activos registrados
