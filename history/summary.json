@@ -90,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/huellasagrada.com.ar.ico",
     "slug": "huella-sagrada",
     "status": "down",
-    "uptime": "6.33%",
-    "uptimeDay": "6.33%",
-    "uptimeWeek": "6.33%",
-    "uptimeMonth": "6.33%",
-    "uptimeYear": "6.33%",
+    "uptime": "3.77%",
+    "uptimeDay": "3.77%",
+    "uptimeWeek": "3.77%",
+    "uptimeMonth": "3.77%",
+    "uptimeYear": "3.77%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 1
+      "2023-05-31": 2
     }
   },
   {
