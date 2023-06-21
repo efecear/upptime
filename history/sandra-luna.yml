@@ -1,7 +1,7 @@
 url: https://www.sandraluna.com.ar
-status: up
-code: 200
-responseTime: 4170
-lastUpdated: 2023-06-20T23:02:54.844Z
+status: down
+code: 503
+responseTime: 4624
+lastUpdated: 2023-06-21T13:10:56.770Z
 startTime: Thu Feb 03 2022 03:33:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
