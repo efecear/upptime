@@ -138,4 +138,4 @@ i18n:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  uptime: "*/20 * * * *"
+  uptime: "*/5 * * * *"
