@@ -47,6 +47,15 @@ sites:
     url: https://www.latandilera.com.ar
   - name: Nodo Monte Castro
     url: https://nodomontecastro.com.ar
+
+  - name: DNS-1
+    check: "tcp-ping"
+    url: ns3.hostmar.com
+    port: 53
+  - name: DNS-2
+    check: "tcp-ping"
+    url: ns4.hostmar.com
+    port: 53
     
     
     
