@@ -48,15 +48,17 @@ sites:
   - name: Nodo Monte Castro
     url: https://nodomontecastro.com.ar
 
+
   - name: DNS-1
     check: "tcp-ping"
     url: ns3.hostmar.com
     port: 53
+    icon: https://raw.githubusercontent.com/testdasi/simple-dns-doh/master/DNS-icon.png
   - name: DNS-2
     check: "tcp-ping"
     url: ns4.hostmar.com
     port: 53
-    
+    icon: https://raw.githubusercontent.com/testdasi/simple-dns-doh/master/DNS-icon.png
     
     
 
