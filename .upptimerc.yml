@@ -74,7 +74,7 @@ status-website:
   theme: light
   favicon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
   faviconSvg: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  customHeadHtml: "<title>efece.ar 📣 Comunicación Digital</title><meta name='description' content='Herramientas esenciales para gestionar tu proyecto llegando a más público. El éxito en el mundo digital de hoy en día.'><meta property='og:site_name' content='efece.ar'><meta property='og:image' content='https://efece.ar/wp-content/uploads/efecear.black_.png'><meta property='og:image:width' content='300'><meta property='og:image:height' content='88'><meta property='og:image:type' content='image/png'>"
+  customHeadHtml: "<title>efece.ar 📣 Comunicación Digital</title><meta name='description' content='Mirá el estado de tus herramientas y servicios para gestionar tu proyecto. El éxito en el mundo digital de hoy en día.'><meta property='og:site_name' content='efece.ar'>"
  # navbar:
  #  - title: Status
  #    href: /
