@@ -68,13 +68,13 @@ status-website:
   cname: estado.efece.ar
   baseUrl: /
   logoUrl: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  name: Estado de Servicios
+  name: Estado de Servicios efece.ar 📣 Comunicación Digital
   introTitle: "Monitor de actividad en tiempo real. "
   introMessage: Nos encargamos de todos los aspectos técnicos para brindarte soluciones. Aquí el estado del servicio con **datos en tiempo real**. Si tienes un incidente/inconveniente que aún no está reportado puedes [escribinos](https://efece.ar/#contact).
   theme: light
   favicon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
   faviconSvg: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  customHeadHtml: "<title>efece.ar 📣 Comunicación Digital</title><meta name='description' content='Mirá el estado de tus herramientas y servicios para gestionar tu proyecto. El éxito en el mundo digital de hoy en día.'><meta property='og:site_name' content='efece.ar'>"
+  customHeadHtml: "<meta name='description' content='Mirá el estado de tus herramientas y servicios para gestionar tu proyecto. El éxito en el mundo digital de hoy en día.'><meta property='og:site_name' content='efece.ar'>"
  # navbar:
  #  - title: Status
  #    href: /
