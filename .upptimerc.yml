@@ -74,13 +74,13 @@ status-website:
   theme: light
   favicon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
   faviconSvg: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  customHeadHtml: "<title>efece.ar 📣 Comunicación Digital</title>"
-  customHeadHtml: "<meta name="description" content="Herramientas esenciales para gestionar tu proyecto llegando a más público. El éxito en el mundo digital de hoy en día.">"
-  customHeadHtml: "<meta property="og:site_name" content="efece.ar">"
-  customHeadHtml: "<meta property="og:image" content="https://efece.ar/wp-content/uploads/efecear.black_.png">"
-  customHeadHtml: "<meta property="<meta property="og:image:width" content="300">"
-  customHeadHtml: "<meta property=" <meta property="og:image:height" content="88">"
-  customHeadHtml: "<meta property="<meta property="og:image:type" content="image/png">"
+  customHeadHtml: '<title>efece.ar 📣 Comunicación Digital</title>'
+  customHeadHtml: '<meta name="description" content="Herramientas esenciales para gestionar tu proyecto llegando a más público. El éxito en el mundo digital de hoy en día.">'
+  customHeadHtml: '<meta property="og:site_name" content="efece.ar">'
+  customHeadHtml: '<meta property="og:image" content="https://efece.ar/wp-content/uploads/efecear.black_.png">'
+  customHeadHtml: '<meta property="<meta property="og:image:width" content="300">'
+  customHeadHtml: '<meta property=" <meta property="og:image:height" content="88">'
+  customHeadHtml: '<meta property="<meta property="og:image:type" content="image/png">'
  # navbar:
  #  - title: Status
  #    href: /
