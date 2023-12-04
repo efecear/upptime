@@ -137,3 +137,7 @@ i18n:
 
 workflowSchedule:
   uptime: "*/5 * * * *"
+  responseTime: "*/15 * * * *"
+  summary: "0 */1 * * *"
+  updateTemplate: "0 */2 * * *"
+  updates: "0 3 * * *"
