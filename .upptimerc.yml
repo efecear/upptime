@@ -19,8 +19,6 @@ sites:
   - name: Huella Sagrada
     url: http://huellasagrada.com.ar  
     icon: https://www.huellasagrada.com.ar/wp-content/uploads/logo-huellasagrada2-150x150.png
-  - name: Maiá Noé
-    url: https://www.maianoe.com.ar
   - name: Almacén BioPandora
     url: https://www.biopandora.com.ar
     icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
