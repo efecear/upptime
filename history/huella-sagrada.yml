@@ -1,7 +1,7 @@
 url: http://huellasagrada.com.ar
-status: up
-code: 200
-responseTime: 3665
-lastUpdated: 2024-01-22T11:38:27.064Z
+status: down
+code: 500
+responseTime: 763
+lastUpdated: 2024-01-22T12:36:05.386Z
 startTime: 2023-05-31T14:14:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
