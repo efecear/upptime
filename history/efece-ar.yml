@@ -1,7 +1,7 @@
 url: https://www.efece.ar
-status: up
-code: 200
-responseTime: 2554
-lastUpdated: 2024-03-13T08:21:04.405Z
+status: down
+code: 500
+responseTime: 2218
+lastUpdated: 2024-03-13T09:12:51.123Z
 startTime: 2022-02-02T06:02:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
