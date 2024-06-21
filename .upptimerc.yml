@@ -6,13 +6,17 @@ sites:
   - name: efece.ar
     url: https://www.efece.ar
     icon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
+  - name: Vía Judicial
+    url: https://www.viajudicial.com.ar
+  - name: Sotero Soluciones
+    url: http://soterosoluciones.com.ar
+  - name: Jorge Retamoza Web
+    url: https://www.retamoza.com.ar
   - name: Veterinaria Colonia Animal
     url: https://www.coloniaanimal.com
-    icon: https://www.coloniaanimal.com/wp-content/uploads/2023/08/Veterinary-5121-150x150.png
+    icon: https://coloniaanimal.com/img/coloniaanimal.com-square-2.png
   - name: Almacenata
     url: https://www.almacenata.com.ar
-  - name: Granja Cooperativa La Tandilera
-    url: https://www.latandilera.com.ar
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
@@ -31,14 +35,9 @@ sites:
     icon: https://www.tierrafirmenodoutt.com.ar/wp-content/uploads/tierra-firme.png
   - name: Nodo UTT Ramos Mejia
     url: https://www.uttnodoramosmejia.com.ar
-  - name: Vía Judicial
-    url: https://www.viajudicial.com.ar
-  - name: Jorge Retamoza Web
-    url: https://www.retamoza.com.ar
   - name: Nodo Monte Castro
     url: https://nodomontecastro.com.ar
-  - name: Sotero Soluciones
-    url: http://soterosoluciones.com.ar
+
 
 
   - name: DNS-1
@@ -61,7 +60,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: estado.efece.ar
-  baseUrl: /
+  baseUrl: 
   logoUrl: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
   name: Estado de Servicios efece.ar 📣 Comunicación Digital
   introTitle: "Monitor de actividad en tiempo real. "
@@ -131,7 +130,7 @@ i18n:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "*/10 * * * *"
   responseTime: "*/30 * * * *"
   summary: "0 */8 * * *"
   updateTemplate: "0 */8 * * *"
