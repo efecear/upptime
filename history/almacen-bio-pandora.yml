@@ -1,7 +1,7 @@
 url: https://www.biopandora.com.ar
-status: up
-code: 200
-responseTime: 7487
-lastUpdated: 2024-08-12T12:53:07.252Z
+status: down
+code: 500
+responseTime: 1662
+lastUpdated: 2024-08-12T13:10:19.454Z
 startTime: 2022-02-03T03:34:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
