@@ -21,9 +21,6 @@ sites:
   - name: Huella Sagrada
     url: http://huellasagrada.com.ar  
     icon: https://www.huellasagrada.com.ar/wp-content/uploads/logo-huellasagrada2-150x150.png
-  - name: Almacén BioPandora
-    url: https://www.biopandora.com.ar
-    icon: https://www.biopandora.com.ar/wp-content/uploads/2021/05/Bio-Pandora-150x150.png
   - name: Afip Api Facturador
     url: https://afip.dev    
   - name: UTT Nodo Morón
