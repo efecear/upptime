@@ -6,15 +6,11 @@ sites:
   - name: efece.ar
     url: https://www.efece.ar
     icon: https://efece.ar/wp-content/uploads/efece.ar_.icon_-150x150.jpg
-  - name: Sotero Soluciones
-    url: http://soterosoluciones.com.ar
   - name: Jorge Retamoza Web
     url: https://www.retamoza.com.ar
   - name: Veterinaria Colonia Animal
     url: https://www.coloniaanimal.com
     icon: https://coloniaanimal.com/img/coloniaanimal.com-square-2.png
-  - name: Almacenata
-    url: https://www.almacenata.com.ar
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
