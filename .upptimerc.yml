@@ -12,7 +12,7 @@ sites:
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
   - name: Huella Sagrada
-    url: http://huellasagrada.com.ar  
+    url: httpa://www.huellasagrada.com.ar  
     icon: https://www.huellasagrada.com.ar/wp-content/uploads/logo-huellasagrada2-150x150.png
   - name: Afip Api Facturador
     url: https://afip.dev    
@@ -22,11 +22,11 @@ sites:
     url: https://www.tierrafirmenodoutt.com.ar
     icon: https://www.tierrafirmenodoutt.com.ar/wp-content/uploads/tierra-firme.png
   - name: Maia Noe
-    url: https://maianoe.com.ar
+    url: https://www.maianoe.com.ar
   - name: Nodo UTT Ramos Mejia
     url: https://www.uttnodoramosmejia.com.ar
   - name: Nodo Monte Castro
-    url: https://nodomontecastro.com.ar
+    url: https://www.nodomontecastro.com.ar
 
 
 
