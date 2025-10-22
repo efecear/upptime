@@ -11,9 +11,6 @@ sites:
   - name: Sandra Luna
     url: https://www.sandraluna.com.ar
     icon: https://www.sandraluna.com.ar/wp-content/uploads/2021/04/apple-touch-icon-57x57-precomposed1.png
-  - name: Huella Sagrada
-    url: httpa://www.huellasagrada.com.ar  
-    icon: https://www.huellasagrada.com.ar/wp-content/uploads/logo-huellasagrada2-150x150.png
   - name: Afip Api Facturador
     url: https://afip.dev    
   - name: UTT Nodo Morón
